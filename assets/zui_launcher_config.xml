@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <!--Preset number of rows and columns-->
+    <item name="current_layout_config_key" value="4x5"/>
+
+    <!--A negative one-screen version is preset, with two values of zui and google, which can be expanded in the future-->
+    <item name="overlay_screen_version" value="zui"/>
+
+    <!--The default layout of the drawer desktop is android native reading xml, true is native, false is reading /system/etc/launcher_2layer.db-->
+    <item name="use_android_default_layout" value="false"/>
+
+    <!--Desktop supports fake desktop icons, 0 is not supported, 1 is all supported, 2 is only single-layer desktop support-->
+    <item name="use_dummy_icon" value="1"/>
+
+    <!--The default desktop style, 1 is a standard single-layer, 0 is a double-layer drawer, can also be expanded-->
+    <item name="default_desktop_style" value="1"/>
+
+    <!-- Whether the icon blue dot is displayed by default-->
+    <item name="use_blue_point" value="true"/>
+
+    <!-- Whether there is a small blue dot function, true shows the switch, false does not show the switch and blue dot-->
+    <item name="has_blue_point" value="true"/>
+
+    <!-- Whether it is a customized version overseas-->
+    <item name="version_for_row" value="false"/>
+
+    <!-- Whether it is a customized version for jd-->
+    <item name="version_for_jd" value="false"/>
+
+    <!-- Whether the layout is locked by default-->
+    <item name="is_layout_locked" value="true"/>
+
+</config>

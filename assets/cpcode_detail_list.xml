@@ -1,0 +1,3277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DOCUMENT>
+	<item>
+		<key>zhongtong</key>
+		<skey>ZTO</skey>
+		<display>
+			<title>中通-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=ZTO&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=ZTO]]></wapurl>
+			<fullname>中通快递</fullname>
+			<shortname>中通</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB1hwfeKVXXXXcLXVXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1FD59KVXXXXcfaXXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1bWYpKVXXXXa_XFXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB17EfrKVXXXXbWXpXXqxFJVFXX-100-100.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB19c_iKVXXXXa8XVXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB1xu6tKVXXXXcoXpXX4zcE9VXX-102-38.png"/>
+			<weight>7</weight>
+			<website title="www.zto.cn" url="http://www.zto.cn" />
+			<tel>95311</tel>
+			<auxiliary title="网点查询" url="http://www.zto.cn/GuestService/SiteQuery" />
+			<auxiliary title="网上寄件" url="http://my.zto.com/Order/" />
+		</display>
+	</item>
+	<item>
+		<key>yuantong</key>
+		<skey>YTO</skey>
+		<display>
+			<title>圆通-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=YTO&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=YTO]]></wapurl>
+			<fullname>圆通速递</fullname>
+			<shortname>圆通</shortname>
+			<icon
+				small="https://gtms03.alicdn.com/tps/i3/TB1_AbkKVXXXXX.XVXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB1_gTbKVXXXXaTaXXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB12ZzdKVXXXXcNXVXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB1c_LwKVXXXXXYXpXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB18_fyKVXXXXcvXXXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1.IfyKVXXXXcKXXXX4zcE9VXX-102-38.png"/>
+			<weight>9</weight>
+			<website title="www.yto.net.cn" url="http://www.yto.net.cn" />
+			<tel>95554</tel>			<auxiliary title="网点查询"
+			url="http://www.ytoexpress.com/gw/service/branchsearch.html" />
+
+			<auxiliary title="网上寄件"
+				url="http://ec.yto.net.cn/order.htm?appcode=YTOWEB" />
+		</display>
+	</item>
+	<item>
+		<key>shentong</key>
+		<skey>STO</skey>
+		<display>
+			<title>申通-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=STO&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=STO]]></wapurl>
+			<fullname>申通快递</fullname>
+			<shortname>申通</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1EW0aLpXXXXaYXXXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB1pqIVLXXXXXahXFXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1FXIKLXXXXXbPXVXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB15wjcKVXXXXX9aXXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB1lybcKVXXXXasaXXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1zw6BKVXXXXa8XXXX4zcE9VXX-102-38.png"/>
+			<weight>11</weight>
+			<website title="www.sto.cn" url="http://www.sto.cn" />
+			<tel>95543</tel>
+			<auxiliary title="网点查询" url="http://www.sto.cn/Service/Site" />
+			<auxiliary title="网上寄件" url="http://www.sto.cn/Service/Order" />
+		</display>
+	</item>
+	<item>
+		<key>yunda</key>
+		<skey>YUNDA</skey>
+		<display>
+			<title>韵达-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=YUNDA&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=YUNDA]]></wapurl>
+			<fullname>韵达快递</fullname>
+			<shortname>韵达</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB1WTYqKVXXXXXKXFXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1uzDsKVXXXXa4XpXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1FAznKVXXXXboXFXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB16iy9KVXXXXaXapXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB17S6iKVXXXXa3XVXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1BX_xKVXXXXXEXpXX4zcE9VXX-102-38.png"/>
+			<weight>8</weight>
+			<website title="www.yundaex.com" url="http://www.yundaex.com" />
+			<tel>95546</tel>
+			<auxiliary title="网点查询" url="http://www.yundaex.com/ydweb/fuwuwangdian.php" />
+			<auxiliary title="网上寄件"
+				url="http://member.yundaex.com/ydmb/member/order/index.jsp" />
+		</display>
+	</item>
+	<item>
+		<key>huitongkuaidi</key>
+		<skey>HTKY</skey>
+		<display>
+			<title>汇通-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=HTKY&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=HTKY]]></wapurl>
+			<fullname>百世快递</fullname>
+			<shortname>百世快递</shortname>
+			<icon
+				small="https://gtms03.alicdn.com/tps/i3/TB131QFJVXXXXXZaXXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB1BJ.LJVXXXXa2XVXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1.jU5JVXXXXanXpXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1Yyg_JVXXXXckXXXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB1Pfc2JVXXXXa_XpXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB12OcTJVXXXXaYXFXX4zcE9VXX-102-38.png"/>
+			<weight>5</weight>
+			<website title="www.800bestex.com" url="http://www.800bestex.com/" />
+			<tel>95320</tel>
+			<auxiliary title="网点查询" url="http://www.800bestex.com/Site/Query" />
+			<auxiliary title="网上寄件" url="http://www.800bestex.com/Order/Create" />
+		</display>
+	</item>
+	<item>
+		<key>shunfeng</key>
+		<skey>SF</skey>
+		<display>
+			<title>顺丰-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=SF&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=SF]]></wapurl>
+			<fullname>顺丰速运</fullname>
+			<shortname>顺丰</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1PSMULXXXXXaFXFXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB10fkYLXXXXXaVXpXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1HxZ3LXXXXXbiXpXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1K2bfKVXXXXcFXVXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1.trjKVXXXXc7XFXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB1mjvcKVXXXXXTaXXX4zcE9VXX-102-38.png"/>
+			<weight>10</weight>
+			<website title="www.sf-express.com" url="http://www.sf-express.com" />
+			<tel>95338</tel>
+			<auxiliary title="网点查询"
+				url="http://www.sf-express.com/cn/sc/dynamic_function/store/" />
+			<auxiliary title="网上寄件" url="http://www.sf-express.com/cn/sc/dynamic_function/order/quick/" />
+		</display>
+	</item>
+	<item>
+		<key>tiantian</key>
+		<skey>TTKDEX</skey>
+		<display>
+			<title>天天-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=TTKDEX&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=TTKDEX]]></wapurl>
+			<fullname>天天快递</fullname>
+			<shortname>天天</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1IsNcLpXXXXb5XXXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1xnNaLpXXXXcvXXXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB1tuI6LXXXXXbJXpXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB1daHiKVXXXXa9XVXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB1Bg_qKVXXXXb.XpXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1gSfwKVXXXXXWXpXX4zcE9VXX-102-38.png"/>
+			<weight>6</weight>
+			<website title="www.ttkdex.com" url="http://www.ttkdex.com" />
+			<tel>400-188-8888</tel>
+			<auxiliary title="网点查询"
+				url="http://www.ttkdex.com/staticFile/pages/networkQuery.html" />
+			<auxiliary title="网上寄件"
+				url="http://www.ttkdex.com/staticFile/pages/onlineorder.html" />
+		</display>
+	</item>
+	<item>
+		<key>kuaijiesudi</key>
+		<skey>FAST</skey>
+		<display>
+			<title>快捷-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=FAST&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=FAST]]></wapurl>
+			<fullname>快捷快递</fullname>
+			<shortname>快捷</shortname>
+			<icon
+				small="https://gtms03.alicdn.com/tps/i3/TB11VW.KVXXXXXgapXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB1WKfaKVXXXXbEaXXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1PlPoKVXXXXbyXFXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1ILHgKVXXXXbEXVXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB16F5.KVXXXXc0aXXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB1vyrBKVXXXXbsXXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.kjkd.com" url="http://www.kjkd.com" />
+			<tel>400-833-3666</tel>
+			<auxiliary title="网点查询" url="http://www.kjkd.com/customer/sitequery" />
+			<auxiliary title="在线寄件" url="http://www.kjkd.com/mykj/order/sendone" />
+		</display>
+	</item>
+	<item>
+		<key>quanfengkuaidi</key>
+		<skey>QFKD</skey>
+		<display>
+			<title>全峰-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=QFKD&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=QFKD]]></wapurl>
+			<fullname>全峰快递</fullname>
+			<shortname>全峰</shortname>
+			<icon
+				small="https://gtms03.alicdn.com/tps/i3/TB1ZsHpKVXXXXaHXFXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB1HezyKVXXXXcTXXXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1lCLnKVXXXXaPXFXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1tbbAKVXXXXbsXXXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB1spjDKVXXXXaVXXXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB1o9bcKVXXXXc7XVXX4zcE9VXX-102-38.png"/>
+			<weight>3</weight>
+			<website title="www.qfkd.com.cn" url="http://www.qfkd.com.cn" />
+			<tel>400-100-0001</tel>
+			<auxiliary title="网点查询"	url="http://www.qfkd.com.cn/quyu.aspx" />
+			<auxiliary title="网上寄件"	url="http://122.225.117.132:9014/QFKD-NETWORK-QUERY/management/reqOrder/toReqOrder" />
+		</display>
+	</item>
+	<item>
+		<key>guotongkuaidi</key>
+		<skey>GTO</skey>
+		<display>
+			<title>国通-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=GTO&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=GTO]]></wapurl>
+			<fullname>国通快递</fullname>
+			<shortname>国通</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB1D.ThKVXXXXbdXVXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1CZO7KVXXXXb6apXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1hYYuKVXXXXbKXpXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1BD6aKVXXXXbnaXXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1dS6dKVXXXXXnaXXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1DtW8KVXXXXXnapXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.gto365.com" url="http://www.gto365.com" />
+			<tel>95327</tel>
+			<auxiliary title="网点查询" url="http://www.gto365.com/#/orgsearch" />
+		</display>
+	</item>
+	<item>
+		<key>zhaijisong</key>
+		<skey>ZJS</skey>
+		<display>
+			<title>宅急送-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=ZJS&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=ZJS]]></wapurl>
+			<fullname>宅急送</fullname>
+			<shortname>宅急送</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1fLI0LXXXXXaJXFXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1kawPLXXXXXXPXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB1B_I2LXXXXXXHXFXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1VmTvKVXXXXaJXpXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB1idvjKVXXXXaGXVXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB1Nm_hKVXXXXblXVXX4zcE9VXX-102-38.png"/>
+			<weight>4</weight>
+			<website title="www.zjs.com.cn" url="http://www.zjs.com.cn" />
+			<tel>400-6789-000</tel>
+			<auxiliary title="网点查询" url="http://www.zjs.com.cn/wdcx/index.jhtml" />
+			<auxiliary title="价格查询" url="http://www.zjs.com.cn/jgcx/index.jhtml" />
+		</display>
+	</item>
+	<item>
+		<key>youshuwuliu</key>
+		<skey>UC</skey>
+		<display>
+			<title>优速-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=UC&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=UC]]></wapurl>
+			<fullname>优速物流</fullname>
+			<shortname>优速</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB1uk3ULXXXXXXVXFXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB1aOQNLXXXXXahXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB1fMkSLXXXXXb6XFXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB1u8K_KVXXXXXXapXXqxFJVFXX-100-100.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB1nzzcKVXXXXXIaXXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB1N8bcKVXXXXaBaXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="http://www.uce.cn/index.html" url="http://www.uce.cn/index.html" />
+			<tel>95349</tel>
+			<auxiliary title="网点查询"
+				url="http://www.uce.cn/service/queryMap.html" />
+			<auxiliary title="网上寄件" url="http://www.uce.cn/service/onlineOrder.html" />
+		</display>
+	</item>
+	<item>
+		<key>debangkuaidi</key>
+		<skey>DBKD</skey>
+		<display>
+			<title>德邦-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=DBKD&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=DBKD]]></wapurl>
+			<fullname>德邦快递</fullname>
+			<shortname>德邦</shortname>
+			<icon
+				small="https://img.alicdn.com/tfs/TB1oHDwr9zqK1RjSZFLXXcn2XXa-16-16.png"
+				middle="https://img.alicdn.com/tfs/TB1V8bBr7voK1RjSZPfXXXPKFXa-36-36.png"
+				normal="https://img.alicdn.com/tfs/TB1FXYur4TpK1RjSZR0XXbEwXXa-56-56.png"
+				s100="https://img.alicdn.com/tfs/TB12rPwr3TqK1RjSZPhXXXfOFXa-100-100.png"
+				s72="https://img.alicdn.com/tfs/TB11lbBr7voK1RjSZPfXXXPKFXa-288-72.png"
+				s38="https://img.alicdn.com/tfs/TB1UcYzrVzqK1RjSZSgXXcpAVXa-102-38.png"/>
+			<weight>2</weight>
+			<website title="www.deppon.com" url="http://www.deppon.com" />
+			<tel>95353</tel>
+			<auxiliary title="网点查询" url="http://www.deppon.com/wangdian/" />
+			<auxiliary title="网上寄件" url="http://www.deppon.com/newTransonline/" />
+		</display>
+	</item>
+	<item>
+		<key>debang</key>
+		<skey>DBL</skey>
+		<display>
+			<title>德邦-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=DBL&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=DBL]]></wapurl>
+			<fullname>德邦快递</fullname>
+			<shortname>德邦</shortname>
+			<icon
+					small="https://img.alicdn.com/tfs/TB1oHDwr9zqK1RjSZFLXXcn2XXa-16-16.png"
+					middle="https://img.alicdn.com/tfs/TB1V8bBr7voK1RjSZPfXXXPKFXa-36-36.png"
+					normal="https://img.alicdn.com/tfs/TB1FXYur4TpK1RjSZR0XXbEwXXa-56-56.png"
+					s100="https://img.alicdn.com/tfs/TB12rPwr3TqK1RjSZPhXXXfOFXa-100-100.png"
+					s72="https://img.alicdn.com/tfs/TB11lbBr7voK1RjSZPfXXXPKFXa-288-72.png"
+					s38="https://img.alicdn.com/tfs/TB1UcYzrVzqK1RjSZSgXXcpAVXa-102-38.png"/>
+			<weight>2</weight>
+			<website title="www.deppon.com" url="http://www.deppon.com" />
+			<tel>95353</tel>
+			<auxiliary title="网点查询" url="http://www.deppon.com/wangdian/" />
+			<auxiliary title="网上寄件" url="http://www.deppon.com/newTransonline/" />
+		</display>
+	</item>
+	<item>
+		<key>ems</key>
+		<skey>EMS</skey>
+		<display>
+			<title>EMS-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=EMS&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=EMS]]></wapurl>
+			<fullname>EMS</fullname>
+			<shortname>EMS</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB1NV35LXXXXXaiXpXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1qNXaLpXXXXaLXXXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1bfI0LXXXXXcHXpXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1BXTaKVXXXXbAaXXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1wOrnKVXXXXbWXFXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1nRTyKVXXXXcvXXXX4zcE9VXX-102-38.png"/>
+			<weight>12</weight>
+			<website title="www.ems.com.cn" url="http://www.ems.com.cn/" />
+			<tel>11183</tel>
+			<auxiliary title="网点查询"
+				url="http://www.ems.com.cn/serviceguide/tong_da_fan_wei.html" />
+			<auxiliary title="网上寄件"
+				url="http://www.ems.com.cn/serviceguide/zifeichaxun/zi_fei_biao_zhun.html" />
+		</display>
+	</item>
+	<item>
+		<key>emsguoji</key>
+		<skey>EMSGJ</skey>
+		<display>
+			<title>EMS国际-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=EMS&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=EMS]]></wapurl>
+			<fullname>EMS国际</fullname>
+			<shortname>EMS国际</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB1NV35LXXXXXaiXpXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1qNXaLpXXXXaLXXXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1bfI0LXXXXXcHXpXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1AJDDKVXXXXaHXXXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB1Wm2yKVXXXXcmXXXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB1GNTvKVXXXXXVXpXX4zcE9VXX-102-38.png"/>
+			<weight>12</weight>
+			<website title="www.ems.com.cn" url="http://www.ems.com.cn/" />
+			<tel>11183</tel>
+			<auxiliary title="网点查询"
+				url="http://www.ems.com.cn/serviceguide/tong_da_fan_wei.html" />
+			<auxiliary title="网上寄件"
+				url="http://www.ems.com.cn/serviceguide/zifeichaxun/zi_fei_biao_zhun.html" />
+		</display>
+	</item>
+	<item>
+		<key>zhongsukuaidi</key>
+		<skey>EMS</skey>
+		<subBrand>true</subBrand>
+		<display>
+			<title>中速快递-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=EMS&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=EMS]]></wapurl>
+			<fullname>中速快递</fullname>
+			<shortname>中速快递</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB1j0YnKVXXXXcmXFXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB1q3u.KVXXXXcAaXXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB11g6qKVXXXXacXFXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB1E7zaKVXXXXbcaXXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB1NiHdKVXXXXXqaXXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB1KluAJVXXXXbNXVXX4zcE9VXX-102-38.png"/>
+			<weight>12</weight>
+			<website title="www.ems.com.cn" url="http://www.ems.com.cn/" />
+			<tel>11183</tel>
+			<auxiliary title="网点查询"
+				url="http://www.ems.com.cn/serviceguide/tong_da_fan_wei.html" />
+			<auxiliary title="网上寄件"
+				url="http://www.ems.com.cn/serviceguide/zifeichaxun/zi_fei_biao_zhun.html" />
+		</display>
+	</item>
+	<item>
+		<key>youzhengguoji</key>
+		<skey>CNPOSTGJ</skey>
+		<display>
+			<title>邮政国际包裹-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTB&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTB]]></wapurl>
+			<fullname>邮政国际包裹</fullname>
+			<shortname>邮政国际包裹</shortname>
+			<icon
+				small="https://gtms03.alicdn.com/tps/i3/TB1WCI5LXXXXXX5XpXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB1sCIJLXXXXXccXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1N6gULXXXXXaZXFXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB14w_cKVXXXXadaXXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1girkKVXXXXX1XVXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1RVYzKVXXXXbwXXXX4zcE9VXX-102-38.png"/>
+			<weight>12</weight>
+			<website title="intmail.183.com.cn" url="http://intmail.183.com.cn/" />
+			<tel>11185</tel>
+			<auxiliary title="网点查询"
+				url="http://intmail.183.com.cn/" />
+			<auxiliary title="网上寄件"
+				url="http://intmail.183.com.cn/" />
+		</display>
+	</item>
+	<item>
+		<key>postb</key>
+		<skey>POSTB</skey>
+		<subBrand>true</subBrand>
+		<display>
+			<title>邮政快递包裹-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTB&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTB]]></wapurl>
+			<fullname>邮政快递包裹</fullname>
+			<shortname>邮政快递包裹</shortname>
+			<icon
+				small="https://gtms03.alicdn.com/tps/i3/TB1WCI5LXXXXXX5XpXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB1sCIJLXXXXXccXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1N6gULXXXXXaZXFXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1Y2MKKVXXXXajapXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB1m9IUKVXXXXbEXVXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB1WUsYKVXXXXXYXVXX4zcE9VXX-102-38.png"/>
+			<weight>12</weight>
+			<website title="intmail.183.com.cn" url="http://intmail.183.com.cn/" />
+			<tel>11185</tel>
+			<auxiliary title="网点查询"
+				url="http://intmail.183.com.cn/" />
+			<auxiliary title="网上寄件"
+				url="http://intmail.183.com.cn/" />
+		</display>
+	</item>
+	<item>
+		<key>dhlde</key>
+		<skey>DHLDE</skey>
+		<display>
+			<title>DHL德国-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=DHLDE&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=DHLDE]]></wapurl>
+			<fullname>DHL德国</fullname>
+			<shortname>DHL德国</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB1fQvmKVXXXXcGXFXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1GazfKVXXXXcnXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1CgvtKVXXXXXRXpXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1GXvtKVXXXXcXXpXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB14FYiKVXXXXa4XVXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1A4juKVXXXXa_XpXXNOB3_XXX-103-38.png"/>
+			<weight>12</weight>
+			<website title="www.dhl.de" url="http://www.dhl.de/en.html" />
+			<tel>0049-0-180-5-345300-1*</tel>
+			<auxiliary title="网点查询"
+				url="http://www.cn.dhl.com/apps/FindCenter/dhldropoff.html" />
+			<auxiliary title="网上寄件"
+				url="http://www.cn.dhl.com/zh.html" />
+		</display>
+	</item>
+	<item>
+		<key>jialidatong</key>
+		<skey>KERRYEAS</skey>
+		<display>
+			<title>嘉里大通-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=KERRYEAS&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=KERRYEAS]]></wapurl>
+			<fullname>嘉里大通</fullname>
+			<shortname>嘉里大通</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1g1TzKVXXXXcjXXXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1AUHcKVXXXXakaXXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1eNbjKVXXXXaAXVXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1KyjDKVXXXXawXXXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB1kETeKVXXXXcCXVXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB1imnlKVXXXXbVXFXXNOB3_XXX-103-38.png"/>
+			<weight>12</weight>
+			<website title="www.kerryeas.com" url="http://www.kerryeas.com" />
+			<tel>400-610-3188</tel>
+			<auxiliary title="网点查询"
+				url="http://www.kerrylogistics.com/sch/OUR_NETWORK/Greater_China/mainlandchina.jsp" />
+			<auxiliary title="其他服务"
+				url="http://www.kerryeas.com" />
+		</display>
+	</item>
+	<item>
+		<key>jiayunmeiwuliu</key>
+		<skey>TMS56</skey>
+		<display>
+			<title>加运美-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=TMS56&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=TMS56]]></wapurl>
+			<fullname>加运美</fullname>
+			<shortname>加运美</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1vGLfKVXXXXcuXVXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1WXPtKVXXXXcjXpXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB15yvjKVXXXXaEXVXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB14gThKVXXXXbiXVXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1_Ti.KVXXXXceaXXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1spLwKVXXXXaBXpXX4zcE9VXX-102-38.png"/>
+			<weight>12</weight>
+			<website title="www.tms56.com" url="http://www.tms56.com" />
+			<tel>0769-85515555</tel>
+			<auxiliary title="网点查询"
+				url="http://www.tms56.com/fwwdindex.asp" />
+			<auxiliary title="其他服务"
+				url="http://www.tms56.com" />
+		</display>
+	</item>
+	<item>
+		<key>ruidianyouzheng</key>
+		<skey>POSTSE</skey>
+		<display>
+			<title>瑞典邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTSE&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTSE]]></wapurl>
+			<fullname>瑞典邮政</fullname>
+			<shortname>瑞典邮政</shortname>
+			<icon
+				small="https://gtms03.alicdn.com/tps/i3/TB17MzqKVXXXXX5XFXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB1WvzbKVXXXXbmaXXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB16PTvKVXXXXbMXXXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1vJDzKVXXXXceXXXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB1Dm2nKVXXXXbRXFXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB11RLfKVXXXXcEXVXXNOB3_XXX-103-38.png"/>
+			<weight>12</weight>
+			<website title="www.posten.se" url="http://www.posten.se" />
+			<tel>0046-8-23-22-20</tel>
+			<auxiliary title="网点查询"
+				url="http://www.posten.se" />
+			<auxiliary title="其他服务"
+				url="http://www.posten.se" />
+		</display>
+	</item>
+	<item>
+		<key>tnt</key>
+		<skey>TNT</skey>
+		<display>
+			<title>TNT-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=TNT&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=TNT]]></wapurl>
+			<fullname>TNT</fullname>
+			<shortname>TNT</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB1lTA0LXXXXXcBXpXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1KY.YLXXXXXXLXFXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1BdEFLXXXXXa3aXXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1p52wKVXXXXX6XpXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1NtfrKVXXXXcZXpXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB1LuPBKVXXXXbnXXXX4zcE9VXX-102-38.png"/>
+			<weight>12</weight>
+			<website title="www.tnt.com/express/en_us/site/home.html" url="https://www.tnt.com/express/en_us/site/home.html" />
+			<tel>800-820-9868</tel>
+			<auxiliary title="网点查询"
+				url="https://www.tnt.com/express/en_us/site/home.html" />
+			<auxiliary title="网上寄件"
+				url="https://www.tnt.com/express/en_us/site/home/how-to-ship-parcel.html" />
+		</display>
+	</item>
+	<item>
+		<key>ups</key>
+		<skey>UPS</skey>
+		<display>
+			<title>UPS-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=UPS&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=UPS]]></wapurl>
+			<fullname>UPS</fullname>
+			<shortname>UPS</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB1iVE6LXXXXXXwXpXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB1ZEIILXXXXXcUXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB1ddsRLXXXXXb8XFXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1ndi.KVXXXXc7aXXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB1kVbzKVXXXXcuXXXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB1RHy_KVXXXXbiaXXX4zcE9VXX-102-38.png"/>
+			<weight>12</weight>
+			<website title="www.ups.com" url="http://www.ups.com/cn" />
+			<tel>400-820-8388</tel>
+			<auxiliary title="网点查询"
+				url="http://www.ups.com/cn" />
+			<auxiliary title="网上寄件"
+				url="https://www.ups.com" />
+		</display>
+	</item>
+	<item>
+		<key>usps</key>
+		<skey>USPS</skey>
+		<display>
+			<title>USPS-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=USPS&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=USPS]]></wapurl>
+			<fullname>USPS</fullname>
+			<shortname>USPS</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB13kZILXXXXXccXVXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1_2INLXXXXXarXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB1gGUULXXXXXa5XFXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1XXy_KVXXXXacapXXqxFJVFXX-100-100.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB1MiLaKVXXXXa0aXXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB1w_2hKVXXXXblXVXXNOB3_XXX-103-38.png"/>
+			<weight>12</weight>
+			<website title="zh.usps.com" url="https://zh.usps.com" />
+			<tel>800-275-8777</tel>
+			<auxiliary title="网点查询"
+				url="https://zh-tools.usps.com/go/POLocatorAction!input.action" />
+			<auxiliary title="网上寄件"
+				url="https://zh-tools.usps.com/go/ScheduleAPickupAction!input.action" />
+		</display>
+	</item>
+	<item>
+		<key>dhl</key>
+		<skey>DHLCN</skey>
+		<display>
+			<title>DHL中国-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=DHL&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=DHL]]></wapurl>
+			<fullname>DHL中国</fullname>
+			<shortname>DHL中国</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1p0g7LXXXXXaHXpXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1wf31LXXXXXXXXFXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB11Qg9LXXXXXahXpXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB18IjiKVXXXXavXVXXqxFJVFXX-100-100.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB1flLBKVXXXXbbXXXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1v1roKVXXXXXsXFXX4zcE9VXX-102-38.png"/>
+			<weight>12</weight>
+			<website title="www.cn.dhl.com" url="http://www.cn.dhl.com" />
+			<tel>95380</tel>
+			<auxiliary title="网点查询"
+				url="http://www.cn.dhl.com/apps/FindCenter/dhldropoff.html" />
+			<auxiliary>
+				<title>网上寄件</title>
+				<url><![CDATA[https://www.mydhl.dhl.com/mydhl/appmanager/smep/customerDesktop?_nfpb=true&_pageLabel=smep_portal_page_login&utm_source=CN&utm_medium=mtc_1&utm_campaign=login_link]]></url>
+			</auxiliary>
+		</display>
+	</item>
+	<item>
+		<key>zhongtiewuliu</key>
+		<skey>ZTKY</skey>
+		<display>
+			<title>中铁物流-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=ZTKY&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=ZTKY]]></wapurl>
+			<fullname>中铁物流</fullname>
+			<shortname>中铁物流</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB106fdKVXXXXXfaXXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1pUDuKVXXXXa.XpXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1dG_AKVXXXXbUXXXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1BCrfKVXXXXb0XVXXqxFJVFXX-100-100.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB19c_iKVXXXXa8XVXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB1xu6tKVXXXXcoXpXX4zcE9VXX-102-38.png"/>
+			<weight>12</weight>
+			<website title="www.ztky.com" url="http://www.ztky.com/feibao/KJCX.aspx" />
+			<tel>400-000-5566</tel>
+			<auxiliary>
+				<title>网点查询</title>
+				<url><![CDATA[http://www.ztky.com/Station?funcid=15&companyid=1]]></url>
+			</auxiliary>
+			<auxiliary>
+				<title>网上寄件</title>
+				<url><![CDATA[http://www.ztky.com/MakeOrder?funcid=34&companyid=1]]></url>
+			</auxiliary>
+		</display>
+	</item>
+	<item>
+		<key>feibaokuaidi</key>
+		<skey>ZTKY</skey>
+		<subBrand>true</subBrand>
+		<display>
+			<title>飞豹快递-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=ZTKY&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=ZTKY]]></wapurl>
+			<fullname>飞豹快递</fullname>
+			<shortname>飞豹快递</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB1SqLqKVXXXXXOXFXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1Pa6yKVXXXXb6XXXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1sj6DKVXXXXalXXXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB12h6fKVXXXXcgXVXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1qKPrKVXXXXXqXFXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB19AzXKVXXXXcfaXXX4zcE9VXX-102-38.png"/>
+			<weight>12</weight>
+			<website title="www.ztky.com" url="http://www.ztky.com/feibao/KJCX.aspx" />
+			<tel>400-000-5566</tel>
+			<auxiliary>
+				<title>网点查询</title>
+				<url><![CDATA[http://www.ztky.com/Station?funcid=15&companyid=1]]></url>
+			</auxiliary>
+			<auxiliary>
+				<title>网上寄件</title>
+				<url><![CDATA[http://www.ztky.com/MakeOrder?funcid=34&companyid=1]]></url>
+			</auxiliary>
+		</display>
+	</item>
+	<item>
+		<key>dhlen</key>
+		<skey>DHL</skey>
+		<display>
+			<title>DHL全球-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=DHL&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=DHL]]></wapurl>
+			<fullname>DHL全球</fullname>
+			<shortname>DHL全球</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB1hGPaKVXXXXbFaXXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB1LoHuKVXXXXaSXpXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB1NAPtKVXXXXbbXpXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB1F6q6KVXXXXbCapXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB1OnPqKVXXXXXsXFXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB1uyfnKVXXXXbMXFXXNOB3_XXX-103-38.png"/>
+			<weight>12</weight>
+			<website title="www.cn.dhl.com" url="http://www.cn.dhl.com" />
+			<tel>800-810-8000</tel>
+			<auxiliary title="网点查询"
+				url="http://www.cn.dhl.com/apps/FindCenter/dhldropoff.html" />
+			<auxiliary title="网上寄件"
+				url="http://www.cn.dhl.com/zh.html" />
+		</display>
+	</item>
+	<item>
+		<key>fedex</key>
+		<skey>FEDEX</skey>
+		<display>
+			<title>FedEx国际-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=FEDEX&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=FEDEX]]></wapurl>
+			<fullname>FedEx国际</fullname>
+			<shortname>FedEx国际</shortname>
+			<icon
+				small="https://gtms03.alicdn.com/tps/i3/TB14IcQLXXXXXa9XVXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB1o4ZVLXXXXXcbXFXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1UJleLpXXXXa_XXXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1r96BKVXXXXbaXXXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB14kHyKVXXXXcFXXXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1TCvzKVXXXXb6XXXX4zcE9VXX-102-38.png"/>
+			<weight>12</weight>
+			<website title="www.fedex.com" url="http://fedex.com/cn" />
+			<tel>400-886-1888</tel>
+			<auxiliary title="网点查询"
+				url="http://www.fedex.com/cn/dropoff" />
+			<auxiliary title="网上寄件"
+				url="http://fedex.com/cn" />
+		</display>
+	</item>
+	<item>
+		<key>fedexus</key>
+		<skey>FEDEXUS</skey>
+		<display>
+			<title>FedEx美国-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=FEDEX&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=FEDEX]]></wapurl>
+			<fullname>FedEx美国</fullname>
+			<shortname>FedEx美国</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB1CvzmKVXXXXXoXVXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1.lYpKVXXXXaeXFXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1MsDhKVXXXXbCXVXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1gCHkKVXXXXX2XVXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB123rbKVXXXXaXaXXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB1AC6lKVXXXXXKXVXX4zcE9VXX-102-38.png"/>
+			<weight>12</weight>
+			<website title="www.fedex.com" url="http://www.fedex.com/us/" />
+			<tel>800-463-3339</tel>
+			<auxiliary title="网点查询"
+				url="ttp://www.fedex.com/us/" />
+			<auxiliary title="网上寄件"
+				url="http://www.fedex.com/us/" />
+		</display>
+	</item>
+	<item>
+		<key>fedexcn</key>
+		<skey>FEDEXCN</skey>
+		<display>
+			<title>FedEx中国-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=FEDEXCN&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=FEDEXCN]]></wapurl>
+			<fullname>FedEx中国</fullname>
+			<shortname>FedEx中国</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB1hS2gKVXXXXbTXVXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1abzgKVXXXXcjXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1N6TcKVXXXXc.XVXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1CIjgKVXXXXbQXVXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB10A6gKVXXXXbXXVXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB1F1LiKVXXXXaYXVXX4zcE9VXX-102-38.png"/>
+			<weight>12</weight>
+			<website title="www.fedex.com" url="http://fedex.com/cn" />
+			<tel>400-886-1888</tel>
+			<auxiliary title="网点查询"
+				url="http://www.fedex.com/cn/dropoff/" />
+			<auxiliary title="网上寄件"
+				url="http://fedex.com/cn" />
+		</display>
+	</item>
+	<item>
+		<key>youzhengguonei</key>
+		<skey>POSTB</skey>
+		<display>
+			<title>包裹信件-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTB&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTB]]></wapurl>
+			<fullname>包裹信件</fullname>
+			<shortname>包裹信件</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB1yI75LXXXXXalXpXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB1_6UPLXXXXXXiXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1G0g8LXXXXXc3XXXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB1HIDcKVXXXXaBaXXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB1H0rmKVXXXXbnXFXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB118vAKVXXXXbLXXXX4zcE9VXX-102-38.png"/>
+			<weight>12</weight>
+			<website title="www.chinapost.com.cn" url="http://yjcx.chinapost.com.cn" />
+			<tel>11185</tel>
+			<auxiliary title="网点查询"
+				url="http://11185.cn/index.html" />
+			<auxiliary title="网上寄件"
+				url="http://zf.chinapost.com.cn/index.do" />
+		</display>
+	</item>
+	<item>
+		<key>postth</key>
+		<skey>POSTTH</skey>
+		<display>
+			<title>泰国邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTTH&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTTH]]></wapurl>
+			<fullname>泰国邮政</fullname>
+			<shortname>泰国邮政</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB1SWg0KVXXXXXWXVXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1KKkLKVXXXXc2aXXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1bxc9KVXXXXbUXpXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1l372KVXXXXcvXFXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1IfUOKVXXXXbmaXXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1JJVbLXXXXXbWXXXX4zcE9VXX-102-38.png"/>
+			<weight>12</weight>
+			<website>
+				<title><![CDATA[www.thailandpost.com/index.php?page=index&language=th]]></title>
+				<url><![CDATA[http://www.thailandpost.com/index.php?page=index&language=th]]></url>
+			</website>
+			<tel>11185</tel>
+			<auxiliary>
+				<title>网点查询</title>
+				<url><![CDATA[http://www.thailandpost.com/index.php?page=index&language=th]]></url>
+			</auxiliary>
+			<auxiliary>
+				<title>网上寄件</title>
+				<url><![CDATA[http://www.thailandpost.com/index.php?page=index&language=th]]></url>
+			</auxiliary>
+		</display>
+	</item>
+	<item>
+		<key>xinfengwuliu</key>
+		<skey>XFWL</skey>
+		<display>
+			<title>信丰-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=XFWL&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=XFWL]]></wapurl>
+			<fullname>信丰物流</fullname>
+			<shortname>信丰</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB1ZYHAKVXXXXbOXXXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB1i0TgKVXXXXaEXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1SjLcKVXXXXcYXVXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1cTLoKVXXXXaTXFXXqxFJVFXX-100-100.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB1ZTYDKVXXXXX5XXXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB1TEPvKVXXXXaoXpXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.xf-express.com.cn" url="http://www.xf-express.com.cn" />
+			<tel>400-830-6333</tel>
+			<auxiliary title="网点查询"
+				url="http://www.xf-express.com.cn/customer/site" />
+			<auxiliary title="产品服务" url="http://www.xf-express.com.cn/product?productType=standard" />
+		</display>
+	</item>
+	<item>
+		<key>ririshun</key>
+		<skey>RRS</skey>
+		<display>
+			<title>日日顺物流-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=RRS&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=RRS]]></wapurl>
+			<fullname>日日顺物流</fullname>
+			<shortname>日日顺</shortname>
+			<icon
+				small="https://img.alicdn.com/tfs/TB1IJY8QpXXXXXuXVXXXXXXXXXX-16-16.png"
+				middle="https://img.alicdn.com/tfs/TB1_0DWQpXXXXclXVXXXXXXXXXX-36-36.png"
+				normal="https://img.alicdn.com/tfs/TB1BtZaQpXXXXbhXFXXXXXXXXXX-56-56.png"
+				s100="https://img.alicdn.com/tfs/TB1UkL9QpXXXXc5XpXXXXXXXXXX-100-100.png"
+				s72="https://img.alicdn.com/tfs/TB1gqfHQpXXXXXVapXXXXXXXXXX-288-72.png"
+				s38="https://img.alicdn.com/tfs/TB1aT.wQpXXXXXWXXXXXXXXXXXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.rrswl.com" url="https://www.rrswl.com/" />
+			<tel>400-800-9999</tel>
+			<auxiliary title="网点查询"
+				url="https://www.rrswl.com/front/jjfa/solution-platform?#cangku" />
+			<auxiliary title="其他服务" url="https://www.rrswl.com/front/jjfa/solution-jiadian" />
+		</display>
+	</item>
+	<item>
+		<key>wanxiangwuliu</key>
+		<skey>EWINSHINE</skey>
+		<display>
+			<title>万象-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=EWINSHINE&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=EWINSHINE]]></wapurl>
+			<fullname>万象物流</fullname>
+			<shortname>万象</shortname>
+			<icon
+				small="https://gtms03.alicdn.com/tps/i3/TB13kDAKVXXXXbDXXXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB109PaKVXXXXXfaXXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1qGrdKVXXXXcOXVXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB1lAzdKVXXXXXfaXXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB1j3jcKVXXXXafaXXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1NWG9KVXXXXaRapXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.ewinshine.com" url="http://www.ewinshine.com" />
+			<tel>400-820-8088</tel>
+			<auxiliary title="网点查询" url="http://www.ewinshine.com/index.html" />
+			<auxiliary title="其他服务" url="http://www.ewinshine.com/index.html" />
+		</display>
+	</item>
+	<item>
+		<key>rufengda</key>
+		<skey>RFD</skey>
+		<display>
+			<title>如风达-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=RFD&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=RFD]]></wapurl>
+			<fullname>如风达</fullname>
+			<shortname>如风达</shortname>
+			<icon
+				small="https://gtms03.alicdn.com/tps/i3/TB1felOMXXXXXagXpXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB1RMRGMXXXXXc6XpXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1vvlUMXXXXXbAXXXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1JFdEMXXXXXalXVXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1MOFoMXXXXXafapXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1auREMXXXXXXYXVXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.rufengda.com" url="http://www.rufengda.com" />
+			<tel>400-010-6660</tel>
+			<auxiliary title="网点查询"
+				url="http://www.rufengda.com/check/check_network.html" />
+			<auxiliary title="网上寄件" url="http://www.rufengda.com/front/getWyjjTwoPage.do" />
+		</display>
+	</item>
+	<item>
+		<key>annengwuliu</key>
+		<skey>ANE56</skey>
+		<display>
+			<title>安能-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=ANE56&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=ANE56]]></wapurl>
+			<fullname>安能物流</fullname>
+			<shortname>安能</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB1hozCKVXXXXX1XXXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB188bjKVXXXXasXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1dZnxKVXXXXXeXpXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1BS2qKVXXXXXGXFXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1oEHdKVXXXXc3XVXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1mu2wKVXXXXXAXpXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.ane56.com" url="http://www.ane56.com/" />
+			<tel>400-104-0088</tel>
+			<auxiliary title="网点查询" url="http://www.ane56.com/search/searchsite.jsp" />
+			<auxiliary title="网上寄件" url="http://www.ane56.com/user/regist.jsp" />
+		</display>
+	</item>
+	<item>
+		<key>annengkuaidi</key>
+		<skey>ANE66</skey>
+		<display>
+			<title>安能-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=ANE66&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=ANE66]]></wapurl>
+			<fullname>安能快递</fullname>
+			<shortname>安能快递</shortname>
+			<icon
+				small="https://img.alicdn.com/tps/TB14UdBPVXXXXc5XFXXXXXXXXXX-16-16.png"
+				middle="https://img.alicdn.com/tps/TB1k2hwPVXXXXaKXVXXXXXXXXXX-36-36.png"
+				normal="https://img.alicdn.com/tps/TB1SCxNPVXXXXbMXpXXXXXXXXXX-56-56.png"
+				s100="https://img.alicdn.com/tps/TB14E4NPVXXXXbTXpXXXXXXXXXX-100-100.png"
+				s72="https://img.alicdn.com/tps/TB1.6BdPVXXXXXKaXXXXXXXXXXX-288-72.png"
+				s38="https://img.alicdn.com/tps/TB1EYJrPVXXXXc1XVXXXXXXXXXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.ane66.com" url="http://www.ane66.com/" />
+			<tel>400-104-0088</tel>
+			<auxiliary title="网点查询" url="http://www.ane66.com/search/site.html" />
+			<auxiliary title="网上寄件" url="http://www.ane66.com/ol/porder.html" />
+		</display>
+	</item>
+	<item>
+		<key>tiandihuayu</key>
+		<skey>HOAU</skey>
+		<display>
+			<title>华宇-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=HOAU&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=HOAU]]></wapurl>
+			<fullname>天地华宇</fullname>
+			<shortname>华宇</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1_SU3LXXXXXXoXFXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1bpc4LXXXXXbIXpXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1VNc0LXXXXXaYXFXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1vULpKVXXXXahXFXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB15QjmKVXXXXaiXFXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1X6LrKVXXXXcPXpXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.hoau.net" url="http://www.hoau.net" />
+			<tel>400-808-6666</tel>
+			<auxiliary title="网点查询"
+				url="http://www.hoau.net/how/bse/companyMatchAction!index.action" />
+			<auxiliary title="网上寄件"
+				url="http://www.hoau.net/how/bse/myOrdersAction!queryMyOrders.action" />
+		</display>
+	</item>
+	<item>
+		<key>jiajiwuliu</key>
+		<skey>JIAJI</skey>
+		<display>
+			<title>佳吉-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=JIAJI&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=JIAJI]]></wapurl>
+			<fullname>佳吉快运</fullname>
+			<shortname>佳吉</shortname>
+			<icon
+				small="https://gtms03.alicdn.com/tps/i3/TB1WDvBKVXXXXa3XXXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB1HNvrKVXXXXXfXFXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1kb6aKVXXXXbQaXXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB1k7DeKVXXXXcTXVXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB1FwvaKVXXXXbvaXXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1yG_rKVXXXXc_XpXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.jiaji.com" url="http://www.jiaji.com" />
+			<tel>400-820-5566</tel>
+			<auxiliary title="网点查询" url="http://www.jiaji.com/QueryTracking/Network" />
+			<auxiliary title="其他服务" url="http://www.jiaji.com" />
+		</display>
+	</item>
+	<item>
+		<key>suer</key>
+		<skey>SURE</skey>
+		<display>
+			<title>速尔-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=SURE&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=SURE]]></wapurl>
+			<fullname>速尔快递</fullname>
+			<shortname>速尔</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1jznmKVXXXXcCXFXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1IDPEKVXXXXXcXXXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1HYDcKVXXXXamaXXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1CebcKVXXXXXZaXXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1RWPuKVXXXXa6XpXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1q8DpKVXXXXafXFXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.sure56.com" url="http://www.sure56.com" />
+			<tel>400-158-9888</tel>
+			<auxiliary title="网点查询" url="http://www.sure56.com/area/service.aspx" />
+			<auxiliary title="业务介绍" url="http://www.sure56.com/product.asp" />
+		</display>
+	</item>
+	<item>
+		<key>quanyikuaidi</key>
+		<skey>UAPEX</skey>
+		<display>
+			<title>全一-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=UAPEX&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=UAPEX]]></wapurl>
+			<fullname>全一快递</fullname>
+			<shortname>全一</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB1PQC.KVXXXXcOaXXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB1dBrdKVXXXXXgaXXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1jZ6aKVXXXXbUaXXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1ke2eKVXXXXXeaXXXqxFJVFXX-100-100.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB1l3vdKVXXXXXEaXXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB1MrPDKVXXXXa0XXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.unitop-apex.com" url="http://www.unitop-apex.com/" />
+			<tel>400-663-1111</tel>
+			<auxiliary title="网点查询"
+				url="http://www.unitop-apex.com/SearchService/Business.aspx" />
+			<auxiliary title="网上寄件" url="http://www.unitop-apex.com/onlineOrder/login.aspx" />
+		</display>
+	</item>
+	<item>
+		<key>quanritongkuaidi</key>
+		<skey>QRT</skey>
+		<display>
+			<title>全日通-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=QRT&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=QRT]]></wapurl>
+			<fullname>全日通</fullname>
+			<shortname>全日通</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1cNrhKVXXXXboXVXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1dqHwKVXXXXaEXpXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB15jLiKVXXXXaUXVXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB15RTuKVXXXXapXpXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB1gWDvKVXXXXX8XpXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1kd2DKVXXXXXWXXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.at-express.com" url="http://www.at-express.com/" />
+			<tel>020-86298999</tel>
+			<auxiliary title="网点查询"
+				url="http://www.at-express.com:8080/servicesarea.html" />
+			<auxiliary title="其他服务" url="http://www.at-express.com/" />
+		</display>
+	</item>
+	<item>
+		<key>fanyukuaidi</key>
+		<skey>GZFY</skey>
+		<display>
+			<title>凡宇-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=GZFY&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=GZFY]]></wapurl>
+			<fullname>凡宇快递</fullname>
+			<shortname>凡宇</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB12aDtKVXXXXclXpXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1ObnlKVXXXXX4XVXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1I9bsKVXXXXcAXpXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1CRrtKVXXXXcXXpXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1FhfzKVXXXXcbXXXXPZKGMFXX-289-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1E2LoKVXXXXaAXFXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="fy.fanyuhuodi.com/" url="http://fy.fanyuhuodi.com/" />
+			<tel>4006-580-358</tel>
+			<auxiliary title="网点查询" url="http://fy.fanyuhuodi.com/" />
+			<auxiliary title="网上寄件" url="http://fy.fanyuhuodi.com/" />
+		</display>
+	</item>
+	<item>
+		<key>xinbangwuliu</key>
+		<skey>XBWL</skey>
+		<display>
+			<title>新邦-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=XBWL&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=XBWL]]></wapurl>
+			<fullname>新邦物流</fullname>
+			<shortname>新邦</shortname>
+			<icon
+				small="https://gtms03.alicdn.com/tps/i3/TB17ePzKVXXXXb3XXXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB1StvAKVXXXXbNXXXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1_r6XKVXXXXa4aXXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB13rPzKVXXXXcbXXXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB1nbTdKVXXXXXkaXXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1uUzzKVXXXXbOXXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.xbwl.cn" url="http://www.xbwl.cn" />
+			<tel>4008-000-222</tel>
+			<auxiliary title="网点查询" url="http://www.xbwl.cn/views/html/selfservice/networkSearch/ec/level2Id/500066" />
+			<auxiliary title="网上寄件" url="http://www.xbwl.cn/views/html/login/ec/redirect//views/html/consignment/onlineOrder" />
+		</display>
+	</item>
+	<item>
+		<key>minghangkuaidi</key>
+		<skey>CAE</skey>
+		<display>
+			<title>民航-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=CAE&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=CAE]]></wapurl>
+			<fullname>民航快递</fullname>
+			<shortname>民航</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB1Rs_sKVXXXXcUXpXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1qxFhIFXXXXXcapXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1Gq6cKVXXXXaBaXXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1vPHjKVXXXXaxXVXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1EOzjKVXXXXbaXVXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB1qK_mKVXXXXb_XFXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.cae.com.cn" url="http://www.cae.com.cn" />
+			<tel>400-817-4008</tel>
+			<auxiliary title="网点查询"
+				url="http://www.cae.com.cn/webFunction/DeliveryRange/Default.aspx" />
+			<auxiliary title="其他服务" url="http://www.cae.com.cn" />
+		</display>
+	</item>
+	<item>
+		<key>zhongtiewuliu</key>
+		<skey>CRE</skey>
+		<display>
+			<title>中铁-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=CRE&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=CRE]]></wapurl>
+			<fullname>中铁快运</fullname>
+			<shortname>中铁</shortname>
+			<icon
+				small="https://gtms03.alicdn.com/tps/i3/TB1vSfkKVXXXXc8XFXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB1Er_XKVXXXXbraXXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1bnzxKVXXXXXlXpXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1D2fiKVXXXXaLXVXXqxFJVFXX-100-100.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB1yVbiKVXXXXbgXVXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB1nY2eKVXXXXc2XVXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.cre.cn " url="http://www.cre.cn " />
+			<tel>95572</tel>
+			<auxiliary title="网点查询"
+				url="http://www.cae.com.cn/webFunction/DeliveryRange/Default.aspx" />
+			<auxiliary title="其他服务" url="http://www.sjfd-express.com/" />
+		</display>
+	</item>
+	<item>
+		<key>yinjiesudi</key>
+		<skey>FEC</skey>
+		<display>
+			<title>银捷-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=FEC&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=FEC]]></wapurl>
+			<fullname>银捷速递</fullname>
+			<shortname>银捷</shortname>
+			<icon
+				small="https://gtms03.alicdn.com/tps/i3/TB1PF6AKVXXXXbvXXXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB1QKryKVXXXXcBXXXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB13t2XKVXXXXaQaXXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB17.fpKVXXXXXwXFXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB1.AzdKVXXXXXAaXXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB1Isy7KVXXXXbSapXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.sjfd-express.com/" url="http://www.sjfd-express.com/" />
+			<tel>0755-88250666</tel>
+			<auxiliary title="网点查询" url="http://www.sjfd-express.com/index.php?s=/citylist.html" />
+			<auxiliary title="其他服务" url="http://www.china-fec.com" />
+		</display>
+	</item>
+	<item>
+		<key>shengfengwuliu</key>
+		<skey>FJSFWLJTYXGS</skey>
+		<display>
+			<title>盛丰-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=FJSFWLJTYXGS&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=FJSFWLJTYXGS]]></wapurl>
+			<fullname>盛丰物流</fullname>
+			<shortname>盛丰</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1su6gKVXXXXbHXVXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB11BzgKVXXXXauXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1kai5KVXXXXbJapXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB14bu7KVXXXXamapXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB10iPtKVXXXXbYXpXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1lUa.KVXXXXclaXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.sfwl.com.cn" url="http://www.sfwl.com.cn" />
+			<tel>0591-83621111</tel>
+			<auxiliary title="网点查询"
+				url="http://www.sfwl.com.cn/index.aspx" />
+			<auxiliary title="其他服务" url="http://www.sfwl.com.cn/index.aspx" />
+		</display>
+	</item>
+	<item>
+		<key>hengluwuliu</key>
+		<skey>HLWL</skey>
+		<display>
+			<title>恒路-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=HLWL&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=HLWL]]></wapurl>
+			<fullname>恒路物流</fullname>
+			<shortname>恒路</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB1eXnkKVXXXXaIXVXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1pd6rKVXXXXXPXFXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB12l_BKVXXXXbgXXXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1WKLbKVXXXXa5aXXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1WsYqKVXXXXbbXpXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB1FFDFKVXXXXXpXXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.e-henglu.com" url="http://www.e-henglu.com" />
+			<tel>400-182-6666</tel>
+			<auxiliary title="网点查询"
+				url="https://www.e-henglu.com/" />
+			<auxiliary title="其他服务" url="http://www.e-henglu.com" />
+		</display>
+	</item>
+	<item>
+		<key>jd</key>
+		<skey>JDKD</skey>
+		<display>
+			<title>京东-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=JDKD&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=JDKD]]></wapurl>
+			<fullname>京东快递</fullname>
+			<shortname>京东</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1Zt6iKVXXXXaUXVXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1o6HpKVXXXXaIXFXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1s3rjKVXXXXatXVXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1on2dKVXXXXc7XVXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB1brLzKVXXXXcuXXXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB1V0HBKVXXXXbzXXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.jd-ex.com" url="http://www.jd-ex.com/" />
+			<tel>400-603-3600</tel>
+			<auxiliary title="运费查询" url="http://jd-ex.com/#searchFreight" />
+			<auxiliary title="禁运规则" url="http://jd-ex.com/forbid.html" />
+		</display>
+	</item>
+	<item>
+		<key>jiayiwuliu</key>
+		<skey>JIAYI</skey>
+		<display>
+			<title>佳怡-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=JIAYI&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=JIAYI]]></wapurl>
+			<fullname>佳怡物流</fullname>
+			<shortname>佳怡</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB1niG9KVXXXXXHapXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB1mj6rKVXXXXcLXpXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1j8DwKVXXXXX1XpXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1q2W8KVXXXXbiaXXXqxFJVFXX-100-100.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB13mPjKVXXXXatXVXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB1Jc6kKVXXXXaaXVXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.jiayi56.com" url="http://www.jiayi56.com/" />
+			<tel>400-631-9999</tel>
+			<auxiliary title="网点查询"
+				url="http://www.jiayi56.com/products_index.html" />
+			<auxiliary title="其他服务" url="http://www.jiayi56.com/" />
+		</display>
+	</item>
+	<item>
+		<key>kuayue</key>
+		<skey>KYE</skey>
+		<display>
+			<title>跨越-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=KYE&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=KYE]]></wapurl>
+			<fullname>跨越速运</fullname>
+			<shortname>跨越</shortname>
+			<icon
+				small="https://gtms03.alicdn.com/tps/i3/TB1O8PjKVXXXXatXVXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB1OuTfKVXXXXcHXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1en2nKVXXXXbzXFXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1hWDlKVXXXXabXVXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB1vGPtKVXXXXbpXpXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB1DhzCKVXXXXa1XXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.ky-express.com" url="http://www.ky-express.com/" />
+			<tel>4008-098-098</tel>
+			<auxiliary title="网点查询"
+				url="http://www.ky-express.com/enterMap" />
+			<auxiliary title="其他服务" url="http://www.ky-express.com/" />
+		</display>
+	</item>
+	<item>
+		<key>lianhaowuliu</key>
+		<skey>LTS</skey>
+		<display>
+			<title>联昊通-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=LTS&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=LTS]]></wapurl>
+			<fullname>联昊通</fullname>
+			<shortname>联昊通</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB18XLgKVXXXXb5XVXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1pgLbKVXXXXaYaXXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1OL_XKVXXXXcKaXXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1JhbeKVXXXXcSXVXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB1LDDdKVXXXXXdaXXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1zXHcKVXXXXayaXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.lhtex.com.cn" url="http://www.lhtex.com.cn" />
+			<tel>0769-88620000</tel>
+			<auxiliary title="网点查询" url="http://www.lhtex.com.cn/wd.asp" />
+			<auxiliary title="其他服务" url="http://www.lhtex.com.cn" />
+		</display>
+	</item>
+	<item>
+		<key>shenganwuliu</key>
+		<skey>SZSA56</skey>
+		<display>
+			<title>圣安-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=SZSA56&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=SZSA56]]></wapurl>
+			<fullname>圣安物流</fullname>
+			<shortname>圣安</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1lVPcKVXXXXacaXXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1b8DBKVXXXXaIXXXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1UBq9KVXXXXX1apXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB15TfqKVXXXXXuXFXXqxFJVFXX-100-100.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB1u6rhKVXXXXa0XVXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB18nzCKVXXXXaFXXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.sa56.net" url="http://www.sa56.net" />
+			<tel>4006-618-169</tel>
+			<auxiliary title="网点查询" url="http://www.sa56.net" />
+			<auxiliary title="其他服务" url="http://www.sa56.net" />
+		</display>
+	</item>
+	<item>
+		<key>shenghuiwuliu</key>
+		<skey>SHENGHUI</skey>
+		<display>
+			<title>盛辉-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=SHENGHUI&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=SHENGHUI]]></wapurl>
+			<fullname>盛辉物流</fullname>
+			<shortname>盛辉</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB1mH17KVXXXXb8apXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB1CkHdKVXXXXXeaXXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB1N9rjKVXXXXXOXVXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1RP14KVXXXXb3apXXqxFJVFXX-100-100.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB10sq1KVXXXXaIaFXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB1pA6pKVXXXXaoXFXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.shenghui56.com" url="http://www.shenghui56.com" />
+			<tel>4008-222-222</tel>
+			<auxiliary title="网点查询" url="http://www.shenghui56.com" />
+			<auxiliary title="新闻中心" url="http://www.shenghui56.com" />
+		</display>
+	</item>
+	<item>
+		<key>jinguangsudikuaijian</key>
+		<skey>SZKKE</skey>
+		<display>
+			<title>京广-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=SZKKE&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=SZKKE]]></wapurl>
+			<fullname>京广速递</fullname>
+			<shortname>京广</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB1pXPqKVXXXXajXFXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1FPrjKVXXXXbgXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1pzHzKVXXXXcjXXXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1TvDgKVXXXXbKXVXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1L7fqKVXXXXXMXFXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB1z_TgKVXXXXbAXVXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.szkke.com" url="http://www.szkke.com/" />
+			<tel>0769-88629888</tel>
+			<auxiliary title="网点查询" url="http://www.szkke.com/net.asp" />
+			<auxiliary title="其他服务" url="http://www.szkke.com/" />
+		</display>
+	</item>
+	<item>
+		<key>yuanchengwuliu</key>
+		<skey>YCKY</skey>
+		<display>
+			<title>远成-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=YCKY&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=YCKY]]></wapurl>
+			<fullname>远成快运</fullname>
+			<shortname>远成</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB1MSgYKVXXXXX1XVXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1DKZUKVXXXXbkXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1qj..KVXXXXXtXpXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1Sri.KVXXXXb5aXXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB1OYrCKVXXXXa1XXXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1ZNfbKVXXXXaCaXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.ycgky.com" url="http://www.ycgky.com/" />
+			<tel>400-820-1646</tel>
+			<auxiliary title="网点查询"
+				url="http://www.ycgky.com/l" />
+		    <auxiliary title="其他服务"
+				url="http://www.ycgky.com/" />
+		</display>
+	</item>
+	<item>
+		<key>ytkd</key>
+		<skey>YTZG</skey>
+		<display>
+			<title>运通-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=YTZG&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=YTZG]]></wapurl>
+			<fullname>运通中港快递</fullname>
+			<shortname>运通</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1iDbpKVXXXXX8XFXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1ZFfmKVXXXXXrXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1Ca_vKVXXXXaBXpXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1g7rAKVXXXXbIXXXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB1Mk_qKVXXXXX1XFXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB1lQbcKVXXXXadaXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.wto-ex.com" url="http://www.wto-ex.com/index.html" />
+			<tel>0769-81156999</tel>
+			<auxiliary title="网点查询"
+				url="http://www.wto-ex.com/index.html" />
+			<auxiliary title="新闻中心" url="http://www.wto-ex.com/index.html" />
+		</display>
+	</item>
+	<item>
+		<key>brazilposten</key>
+		<skey>POSTBR</skey>
+		<display>
+			<title>巴西邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTBR&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTBR]]></wapurl>
+			<fullname>巴西邮政</fullname>
+			<shortname>巴西邮政</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1XzzzKVXXXXbSXXXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1qKHbKVXXXXbiaXXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1KJHvKVXXXXa0XpXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB15VnyKVXXXXXdXpXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB1VVDWJVXXXXaeXVXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB1H4fiKVXXXXa_XVXXNOB3_XXX-103-38.png"/>
+			<weight>0</weight>
+			<website title="www.correios.com.br" url="http://www.correios.com.br/ " />
+			<tel>0055-61-3003-0100</tel>
+			<auxiliary title="网点查询" url="http://www.correios.com.br/ " />
+			<auxiliary title="网上寄件" url="http://www.correios.com.br/ " />
+		</display>
+	</item>
+	<item>
+		<key>swisspost</key>
+		<skey>POSTCH</skey>
+		<display>
+			<title>瑞士邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTCH&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTCH]]></wapurl>
+			<fullname>瑞士邮政</fullname>
+			<shortname>瑞士邮政</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1pNjlKVXXXXXHXVXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1BjTiKVXXXXbiXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1VePyKVXXXXcZXXXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1ekTsKVXXXXcFXpXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB1XJHqKVXXXXaqXFXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB1KG_rKVXXXXXBXFXXNOB3_XXX-103-38.png"/>
+			<weight>0</weight>
+			<website title="www.swisspost.ch" url="http://www.swisspost.ch/" />
+			<tel>0041-848-888-888</tel>
+			<auxiliary title="网点查询" url="http://www.swisspost.ch/" />
+			<auxiliary title="其他服务" url="http://www.swisspost.ch/" />
+		</display>
+	</item>
+	<item>
+		<key>bpost</key>
+		<skey>BLSYZ</skey>
+		<display>
+			<title>比利时邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=BLSYZ&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=BLSYZ]]></wapurl>
+			<fullname>比利时邮政</fullname>
+			<shortname>比利时邮政</shortname>
+			<icon
+				small="https://gtms03.alicdn.com/tps/i3/TB1bQjbKVXXXXa0aXXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB1kvfcKVXXXXafaXXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB11ZbnKVXXXXbzXFXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB1XaYAKVXXXXbDXXXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB1R6fiKVXXXXa4XVXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1zhjsKVXXXXchXpXXNOB3_XXX-103-38.png"/>
+			<weight>0</weight>
+			<website title="www.bpostinternational.com" url="http://www.bpostinternational.com/" />
+			<tel>0032-02-278-50-90</tel>
+			<auxiliary title="中文网站"
+				url="http://www.bpostinternational.com/cn/cn/index.html" />
+			<auxiliary title="购必达" url="http://www.globify.cn/" />
+		</display>
+	</item>
+	<item>
+		<key>japanposten</key>
+		<skey>RBYZEMS</skey>
+		<display>
+			<title>日本邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=RBYZEMS&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=RBYZEMS]]></wapurl>
+			<fullname>日本邮政</fullname>
+			<shortname>日本邮政</shortname>
+			<icon
+				small="https://gtms03.alicdn.com/tps/i3/TB1G.DuKVXXXXbbXpXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB1ckYtKVXXXXb5XpXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB17hzrKVXXXXXsXFXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1X_zzKVXXXXb2XXXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB1XcflKVXXXXb1XFXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB1UfPEKVXXXXXbXXXXNOB3_XXX-103-38.png"/>
+			<weight>0</weight>
+			<website title="www.post.japanpost.jp" url="http://www.post.japanpost.jp" />
+			<tel>0081-0570-046111</tel>
+			<auxiliary title="网点查询" url="http://www.post.japanpost.jp" />
+			<auxiliary title="其他服务" url="http://www.post.japanpost.jp" />
+		</display>
+	</item>
+	<item>
+		<key>koreapost</key>
+		<skey>EPOST</skey>
+		<display>
+			<title>韩国邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=EPOST&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=EPOST]]></wapurl>
+			<fullname>韩国邮政</fullname>
+			<shortname>韩国邮政</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1yybwKVXXXXajXpXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1JTvgKVXXXXbPXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1t2vlKVXXXXXGXVXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1k_TgKVXXXXaQXVXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB1j02jKVXXXXaVXVXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1Dx6kKVXXXXXpXVXXNOB3_XXX-103-38.png"/>
+			<weight>0</weight>
+			<website title="www.koreapost.go.kr" url="http://www.koreapost.go.kr" />
+			<tel>0082-2-2195-1114</tel>
+			<auxiliary title="网点查询" url="http://www.koreapost.go.kr" />
+			<auxiliary title="其他服务" url="http://www.koreapost.go.kr" />
+		</display>
+	</item>
+	<item>
+		<key>EYB</key>
+		<skey>EYB</skey>
+		<display>
+			<title>EMS经济快递-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=EYB&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=EYB]]></wapurl>
+			<fullname>EMS经济快递</fullname>
+			<shortname>EMS经济快递</shortname>
+			<icon
+				small="https://gtms03.alicdn.com/tps/i3/TB1RJZ9KVXXXXb_XpXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i4/TB1cwEVKVXXXXbXXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i1/TB1zewPKVXXXXaFaXXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1lvoIKVXXXXccaXXXqxFJVFXX-100-100.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB1FV7YKVXXXXaCXVXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB15DUKKVXXXXcWaXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.ems.com.cn/mainservice/ems/jing_ji_kuai_di.html" url="http://www.ems.com.cn/mainservice/ems/jing_ji_kuai_di.html" />
+			<tel>11183</tel>
+			<auxiliary title="自提点查询"
+				url="http://www.ems.com.cn/serviceguide/zi_ti_dian_cha_xun.html" />
+			<auxiliary title="网上寄件"
+				url="http://www.11183.com.cn/ec-web/" />
+		</display>
+	</item>
+	<item>
+		<key>bestqjt</key>
+		<skey>BESTQJT</skey>
+		<display>
+			<title>百世快运-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=BESTQJT&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=BESTQJT]]></wapurl>
+			<fullname>百世快运</fullname>
+			<shortname>百世快运</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB1meZSKVXXXXXhaXXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB1FO33KVXXXXb_XFXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB1Zro2KVXXXXcdXFXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1zUoUKVXXXXbHXVXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB1zL.UKVXXXXbQXVXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB19xE3KVXXXXceXFXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.800best.com" url="http://www.800best.com/" />
+			<tel>400-8856-561</tel>
+			<auxiliary title="网点查询"
+				url="http://www.800best.com/freight/network.shtml" />
+			<auxiliary title="网上寄件"
+				url="https://t.800best.com/turbo/home/home" />
+		</display>
+	</item>
+	<item>
+		<key>huangmajia</key>
+		<skey>HUANGMAJIA</skey>
+		<display>
+			<title>黄马甲-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=HUANGMAJIA&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=HUANGMAJIA]]></wapurl>
+			<fullname>黄马甲配送</fullname>
+			<shortname>黄马甲</shortname>
+			<icon
+				small="https://gtms03.alicdn.com/tps/i3/TB17zldLXXXXXbXXXXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB1SOsPKVXXXXaraXXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1LQsFKVXXXXa2apXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB1ZBA_KVXXXXb4XXXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB1k.7IKVXXXXbnaXXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1yjc3KVXXXXbLXFXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.huangmajia.com" url="http://www.huangmajia.com/" />
+			<tel>029-96128</tel>
+			<auxiliary title="网点查询"
+				url="http://www.huangmajia.com/fuwu.html#wd" />
+			<auxiliary title="其他服务"
+				url="http://www.huangmajia.com/" />
+		</display>
+	</item>
+	<item>
+		<key>chengbang</key>
+		<skey>CHENGBANG</skey>
+		<display>
+			<title>晟邦-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=CHENGBANG&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=CHENGBANG]]></wapurl>
+			<fullname>晟邦物流</fullname>
+			<shortname>晟邦</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1vd3ZKVXXXXalXVXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1uWcLKVXXXXc4aXXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB14WxhLXXXXXXdXXXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1tUQ0KVXXXXbIXFXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB19aEVKVXXXXbTXVXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB10FI3KVXXXXcdXFXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.3856.cc" url="http://www.3856.cc/" />
+			<tel>400-666-6066</tel>
+			<auxiliary title="其他服务"
+				url="http://www.3856.cc/" />
+		</display>
+	</item>
+		<item>
+		<key>gzlt</key>
+		<skey>GZLT</skey>
+		<display>
+			<title>飞远配送-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=GZLT&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=GZLT]]></wapurl>
+			<fullname>飞远配送</fullname>
+			<shortname>飞远配送</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB1I9QYKVXXXXaXXVXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB1f1AWKVXXXXakXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB1dWQGKVXXXXX.apXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1COQHKVXXXXaNapXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB10GQ3KVXXXXcnXFXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB1hI8aLXXXXXciXXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="mail.fyps.cn" url="http://mail.fyps.cn/" />
+			<tel>0758-3981377</tel>
+		</display>
+	</item>
+	<item>
+		<key>hzabc</key>
+		<skey>HZABC</skey>
+		<display>
+			<title>飞远(爱彼西)-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=HZABC&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=HZABC]]></wapurl>
+			<fullname>飞远(爱彼西)配送</fullname>
+			<shortname>飞远(爱彼西)</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB1j2cUKVXXXXbyXVXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB1cCw1KVXXXXcJXFXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB1lFw_KVXXXXa5XpXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB1kdE7KVXXXXc_XpXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB1EkxbLXXXXXbNXXXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB1YVg.KVXXXXcWXXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.abccod.com" url="http://www.abccod.com/" />
+			<tel>400-711-8899</tel>
+			<auxiliary title="网点查询"
+				url="http://www.abccod.com/ServerArea.aspx" />
+		    <auxiliary title="其他服务"
+				url="http://www.abccod.com/Default.aspx" />
+		</display>
+	</item>
+	<item>
+		<key>snwl</key>
+		<skey>SNWL</skey>
+		<display>
+			<title>苏宁-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=SNWL&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=SNWL]]></wapurl>
+			<fullname>苏宁快递</fullname>
+			<shortname>苏宁</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB1OfwOKVXXXXaraXXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB1PUQPKVXXXXXRaXXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1dVIJKVXXXXXJapXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1J8o2KVXXXXcqXFXXqxFJVFXX-100-100.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB1Plk3KVXXXXcgXFXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB1BwEOKVXXXXa3aXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="wuliu.suning.com/lpe" url="http://wuliu.suning.com/lpe/" />
+			<tel>95315</tel>
+			<auxiliary title="网点查询"
+				url="http://wuliu.suning.com/lpe/query/networkQuery.htm" />
+		    <auxiliary title="网上寄件"
+				url="http://wuliu.suning.com/lpe/" />
+		</display>
+	</item>
+	<item>
+		<key>zimakaimeng</key>
+		<skey>ZMKM</skey>
+		<display>
+			<title>芝麻开门-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=ZMKM&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=ZMKM]]></wapurl>
+			<fullname>芝麻开门</fullname>
+			<shortname>芝麻开门</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1X1taLXXXXXbxXXXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1u07.KVXXXXagXpXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1j6VcLXXXXXbnXXXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1KWg5KVXXXXbfXFXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB1qlRdLXXXXXaNXXXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB1gdU4KVXXXXXDXFXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.zmkmex.com" url="http://www.zmkmex.com/" />
+			<tel>4001-056-056</tel>
+			<auxiliary title="其他服务"
+				url="http://www.zmkmex.com/Article?id=fa8787bbb2694bc3b38ecbf6916fe0d0" />
+		</display>
+	</item>
+	<item>
+		<key>jindouyunwuliu</key>
+		<skey>JDYWL</skey>
+		<display>
+			<title>筋斗云物流-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=JDYWL&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=JDYWL]]></wapurl>
+			<fullname>筋斗云物流</fullname>
+			<shortname>筋斗云物流</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB1Zik0KVXXXXXrXVXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB13Zo7KVXXXXbkXpXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB1J9oUKVXXXXbIXVXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB1SNcRKVXXXXbNXVXXqxFJVFXX-100-100.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB1fJcVKVXXXXa3XVXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB17WI9KVXXXXccXpXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.jdyexpress.com.au" url="http://www.jdyexpress.com.au/" />
+			<tel>1300 539 888</tel>
+			<auxiliary title="其他服务"
+				url="http://www.jdyexpress.com.au/aujindouyun/17/d.htm" />
+		</display>
+	</item>
+	<item>
+		<key>bjcs</key>
+		<skey>BJCS</skey>
+		<display>
+			<title>城市100-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=BJCS&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=BJCS]]></wapurl>
+			<fullname>城市一百物流</fullname>
+			<shortname>城市100</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB1fGM2KVXXXXcHXFXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB10SoIKVXXXXXVapXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB1HvA6KVXXXXabXFXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB11vQYKVXXXXaqXVXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB1Ab.9KVXXXXbWXpXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB1ljZYKVXXXXatXVXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.bjcs100.com" url="http://www.bjcs100.com/" />
+			<tel>010-52310990</tel>
+			<auxiliary title="网点查询"
+				url="http://www.bjcs100.com/" />
+		    <auxiliary title="其他服务"
+				url="http://www.bjcs100.com/c36417/default.asp"  />
+		</display>
+	</item>
+	<item>
+		<key>lb</key>
+		<skey>LB</skey>
+		<display>
+			<title>龙邦速递-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=LB&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=LB]]></wapurl>
+			<fullname>龙邦速递</fullname>
+			<shortname>龙邦速递</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB1UQs7KVXXXXXeXFXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB1FmwWKVXXXXaNXVXXgBrbGpXX-36-36.png"
+				normal="ttp://gtms03.alicdn.com/tps/i3/TB1s4QUKVXXXXbSXVXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB15YM0KVXXXXc8XFXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB1LRZLKVXXXXXoapXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB1bxQ5KVXXXXbXXFXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.lbex.net" url="http://www.lbex.net/" />
+			<tel>021-59218889</tel>
+			<auxiliary title="网点查询"
+				url="http://www.lbex.net/site/index.jsp" />
+		    <auxiliary title="其他服务"
+				url="http://www.lbex.net/ProductService?id=f227f69f-29d6-41f5-83b6-cb77f030f697" />
+		</display>
+	</item>
+	<item>
+		<key>yct</key>
+		<skey>YCT</skey>
+		<display>
+			<title>黑猫宅急便-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=YCT&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=YCT]]></wapurl>
+			<fullname>黑猫宅急便</fullname>
+			<shortname>黑猫宅急便</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB13UpgLXXXXXXiXXXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1LLo1KVXXXXbwXFXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1x3._KVXXXXaRXpXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1T_M.KVXXXXcZXXXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1qf.0KVXXXXXtXVXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB1_t8dLXXXXXbsXXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.ta-q-bin.sh.cn" url="http://www.ta-q-bin.sh.cn/" />
+			<tel>4008-565656</tel>
+			<auxiliary title="网上寄件"
+				url="http://www.ta-q-bin.sh.cn/reserve.html" />
+		    <auxiliary title="其他服务"
+				url="http://www.ta-q-bin.sh.cn/support.html" />
+		</display>
+	</item>
+	<item>
+		<key>royalmall</key>
+		<skey>ROYALMAIL</skey>
+		<display>
+			<title>英国皇家邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=ROYALMAIL&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=ROYALMAIL]]></wapurl>
+			<fullname>英国皇家邮政</fullname>
+			<shortname>英国皇家邮政</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB11VI_KVXXXXbtXpXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1SeEMKVXXXXaPaXXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1jYAZKVXXXXXUXVXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1WHMTKVXXXXceXVXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB12t.3KVXXXXX9XFXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1RRBfLXXXXXX9XXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.royalmail.com" url="http://www.royalmail.com/" />
+			<tel>+44 20 7250 2888</tel>
+		</display>
+	</item>
+	<item>
+		<key>jkyz</key>
+		<skey>JKYZ</skey>
+		<display>
+			<title>捷克邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=JKYZ&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=JKYZ]]></wapurl>
+			<fullname>捷克邮政</fullname>
+			<shortname>捷克邮政</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB1bA0bLXXXXXbPXXXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB1MgAUKVXXXXbKXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1ttNXLXXXXXc4XXXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1AUQJKVXXXXXqapXXqxFJVFXX-100-100.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB1YVNhLXXXXXXfXXXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB1hIcRKVXXXXXCaXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.ceskaposta.cz" url="http://www.ceskaposta.cz/index" />
+			<tel>+420 840 111 244</tel>
+		</display>
+	</item>
+	<item>
+		<key>blyz</key>
+		<skey>BLYZ</skey>
+		<display>
+			<title>波兰邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=BLYZ&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=BLYZ]]></wapurl>
+			<fullname>波兰邮政</fullname>
+			<shortname>波兰邮政</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB1PGM2KVXXXXb.XFXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1zAI4KVXXXXbmXFXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB110E7KVXXXXXhXFXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1NRZ.KVXXXXXvXpXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1pcUSKVXXXXcNXVXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1v5ldLXXXXXawXXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.poczta-polska.pl" url="http://www.poczta-polska.pl/" />
+			<tel>+48 43 842 06 00</tel>
+			<auxiliary title="网点查询"
+				url="http://placowki.poczta-polska.pl/" />
+		    <auxiliary title="运费查询"
+				url="http://placowki.poczta-polska.pl/"  />
+		</display>
+	</item>
+	<item>
+		<key>fgyz</key>
+		<skey>FGYZ</skey>
+		<display>
+			<title>法国邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=FGYZ&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=FGYZ]]></wapurl>
+			<fullname>法国邮政</fullname>
+			<shortname>法国邮政</shortname>
+			<icon
+				small="https://gtms03.alicdn.com/tps/i3/TB11dwTKVXXXXckXVXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB1rT.4KVXXXXa0XFXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1bJlfLXXXXXaqXXXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1PCc6KVXXXXX2XFXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB1xrkWKVXXXXaVXVXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB1y2c4KVXXXXbCXFXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.laposte.fr" url="http://www.laposte.fr/particulier" />
+			<tel>0810-821-821</tel>
+			<auxiliary title="运费查询"
+				url="http://www.laposte.fr/particulier/outils/calculateur-de-tarif" />
+		    <auxiliary title="其他服务"
+				url="http://www.laposte.fr/particulier/courriers-colis/produits-et-services" />
+		</display>
+	</item>
+	<item>
+		<key>posttr</key>
+		<skey>POSTTR</skey>
+		<display>
+			<title>土耳其邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTTR&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTTR]]></wapurl>
+			<fullname>土耳其邮政</fullname>
+			<shortname>土耳其邮政</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1zcOvLXXXXXcqXXXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1PkN_LXXXXXc9XVXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1uAWdLXXXXXXcXVXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1tR9rLXXXXXaBXpXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB1XTGpLXXXXXbuXpXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB1paR3LXXXXXbJaXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="ptt.gov.tr" url="http://ptt.gov.tr/ptt/" />
+			<tel>444-1788</tel>
+			<auxiliary title="运费查询"
+				url="http://ptt.gov.tr/ptt/#ptt_gonderi_ucreti_ogrenme" />
+		</display>
+	</item>
+	<item>
+		<key>postcl</key>
+		<skey>POSTCL</skey>
+		<display>
+			<title>智利邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTCL&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTCL]]></wapurl>
+			<fullname>智利邮政</fullname>
+			<shortname>智利邮政</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB1Ah.NKVXXXXbGaXXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB1.Zo8KVXXXXcTXpXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1k1w8KVXXXXcOXpXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1VZkWKVXXXXbgXVXXqxFJVFXX-100-100.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB1UKsLKVXXXXXpapXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB1UNQUKVXXXXbFXVXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.correos.cl" url="http://www.correos.cl/SitePages/home.aspx" />
+			<tel>(56 2) 2956 03 03</tel>
+			<auxiliary title="网点查询"
+				url="http://www.correos.cl/SitePages/puntos/puntos_servicio.aspx" />
+		    <auxiliary title="其他服务"
+				url="http://www.correos.cl/SitePages/persona/productos/productos.aspx" />
+		</display>
+	</item>
+	<item>
+		<key>postby</key>
+		<skey>POSTBY</skey>
+		<display>
+			<title>白俄罗斯邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTBY&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTBY]]></wapurl>
+			<fullname>白俄罗斯邮政</fullname>
+			<shortname>白俄罗斯邮政</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB1neJaLXXXXXcoXXXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1ltEPKVXXXXXPaXXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1MlkTKVXXXXcXXVXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1ATUVKVXXXXbBXVXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1sJMUKVXXXXcXXVXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB1FcRgLXXXXXXIXXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.belpost.by" url="http://www.belpost.by/" />
+			<tel>+375 17 293 59 10</tel>
+			<auxiliary title="运费查询"
+				url="http://www.belpost.by/tariff/belarus/fizzlica/" />
+		    <auxiliary title="其他服务"
+				url="http://www.belpost.by/services/" />
+		</display>
+	</item>
+	<item>
+		<key>postes</key>
+		<skey>POSTES</skey>
+		<display>
+			<title>西班牙邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTES&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTES]]></wapurl>
+			<fullname>西班牙邮政</fullname>
+			<shortname>西班牙邮政</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB18Lw1KVXXXXcQXFXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1uCcTKVXXXXbwXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1S732KVXXXXckXFXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1bdINKVXXXXaOaXXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1TMdXLXXXXXbJXXXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB1qnNfLXXXXXX3XXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.correos.es" url="http://www.correos.es/ss/Satellite/site/pagina-inicio/info" />
+			<tel>902-197-197</tel>
+			<auxiliary title="网上寄件"
+				url="http://www.correos.es/ss/Satellite/site/pagina-paqueteria/sidioma=es_ES" />
+		    <auxiliary title="其他服务"
+				url="http://www.correos.es/ss/Satellite/site/pagina-soluciones_empresariales/sidioma=es_ES"  />
+		</display>
+	</item>
+	<item>
+		<key>postua</key>
+		<skey>POSTUA</skey>
+		<display>
+			<title>乌克兰邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTUA&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTUA]]></wapurl>
+			<fullname>乌克兰邮政</fullname>
+			<shortname>乌克兰邮政</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB1frAMKVXXXXcUaXXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB1_yE4KVXXXXbJXFXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB1HyEzKpXXXXaMaXXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1yiQTKVXXXXbdXVXXqxFJVFXX-100-100.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB1pmM6KVXXXXXLXFXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB1LKc.KVXXXXX_XpXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.ukrposhta.com" url="http://www.ukrposhta.com/" />
+			<tel>+380 (0) 800-500-440</tel>
+		</display>
+	</item>
+	<item>
+		<key>postno</key>
+		<skey>POSTNO</skey>
+		<display>
+			<title>挪威邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTNO&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTNO]]></wapurl>
+			<fullname>挪威邮政</fullname>
+			<shortname>挪威邮政</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1JYZWKVXXXXaSXVXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1N0kOKVXXXXbjaXXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1lhA3KVXXXXb1XFXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1VyRbLXXXXXbHXXXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB1Gss0KVXXXXXHXVXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB1NI79KVXXXXb5XpXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.posten.no" url="http://www.posten.no/" />
+			<tel>+47 21316260</tel>
+		</display>
+	</item>
+	<item>
+		<key>postza</key>
+		<skey>POSTZA</skey>
+		<display>
+			<title>南非邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTZA&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTZA]]></wapurl>
+			<fullname>南非邮政</fullname>
+			<shortname>南非邮政</shortname>
+			<icon
+				small="https://gtms03.alicdn.com/tps/i3/TB1fDtXLXXXXXbYXXXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB1jyVXLXXXXXcCXXXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB1vj8XLXXXXXb4XXXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB10W0bLXXXXXb4XXXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB1yNc9KVXXXXbMXpXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB1hnEWKVXXXXaDXVXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.postoffice.co.za" url="http://www.postoffice.co.za" />
+			<tel>+27 0860 111 502</tel>
+		</display>
+	</item>
+	<item>
+		<key>postpt</key>
+		<skey>POSTPT</skey>
+		<display>
+			<title>葡萄牙邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTPT&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTPT]]></wapurl>
+			<fullname>葡萄牙邮政</fullname>
+			<shortname>葡萄牙邮政</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1U2gSKVXXXXc6XVXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1OupbLXXXXXb2XXXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1LmgOKVXXXXaIaXXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1VXAPKVXXXXaHaXXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB1Wqc.KVXXXXasXpXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB173QOKVXXXXasaXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.ctt.pt" url="http://www.ctt.pt" />
+			<tel>+351 707 26 26 26</tel>
+		</display>
+	</item>
+	<item>
+		<key>postsa</key>
+		<skey>POSTSA</skey>
+		<display>
+			<title>沙特邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTSA&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTSA]]></wapurl>
+			<fullname>沙特邮政</fullname>
+			<shortname>沙特邮政</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1ZOoNKVXXXXa2aXXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1FzQNKVXXXXbkaXXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1b0w6KVXXXXahXFXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1xoZ2KVXXXXcoXFXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB1dx7.KVXXXXXFXpXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB1mXcUKVXXXXcwXVXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.sp.com.sa" url="http://www.sp.com.sa" />
+			<tel>+966 9200 05700</tel>
+		</display>
+	</item>
+	<item>
+		<key>postin</key>
+		<skey>POSTIN</skey>
+		<display>
+			<title>印度邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTIN&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTIN]]></wapurl>
+			<fullname>印度邮政</fullname>
+			<shortname>印度邮政</shortname>
+			<icon
+				small="https://gtms03.alicdn.com/tps/i3/TB1wmE7KVXXXXXcXFXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB1iKMRKVXXXXXgaXXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB1Q_cSKVXXXXctXVXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB1kXw1KVXXXXcfXFXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB19O3UKVXXXXbuXVXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB1MzwUKVXXXXbJXVXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.indiapost.gov.in" url="http://www.indiapost.gov.in" />
+			<tel>1800-11-2011</tel>
+		</display>
+	</item>
+	<item>
+		<key>postbg</key>
+		<skey>POSTBG</skey>
+		<display>
+			<title>保加利亚邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTBG&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTBG]]></wapurl>
+			<fullname>保加利亚邮政</fullname>
+			<shortname>保加利亚邮政</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB16C3YKVXXXXalXVXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1gXGFIFXXXXaMapXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1vV.1KVXXXXcJXFXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1ysI1KVXXXXcQXFXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1xNM1KVXXXXcJXFXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1VpMRKVXXXXb7XVXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.bgpost.bg" url="http://www.bgpost.bg/" />
+			<tel>+3592/949 3280</tel>
+		</display>
+	</item>
+	<item>
+		<key>postae</key>
+		<skey>POSTAE</skey>
+		<display>
+			<title>阿联酋邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTAE&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTAE]]></wapurl>
+			<fullname>阿联酋邮政</fullname>
+			<shortname>阿联酋邮政</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB1bdgOKVXXXXaqaXXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1w_39KVXXXXaoXpXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1wVQZKVXXXXaaXVXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1yypbLXXXXXbGXXXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB12FUIKVXXXXaTapXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB19x.OKVXXXXaPaXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.epg.gov.ae" url="http://www.epg.gov.ae/" />
+			<tel>600-599-999</tel>
+		</display>
+	</item>
+	<item>
+		<key>auspost</key>
+		<skey>POSTAU</skey>
+		<display>
+			<title>澳大利亚邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTAU&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTAU]]></wapurl>
+			<fullname>澳大利亚邮政</fullname>
+			<shortname>澳大利亚邮政</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB14awNKVXXXXbKaXXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB1.uUQKVXXXXafaXXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB16x3NKVXXXXcdaXXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1Ia3IKVXXXXaDapXXqxFJVFXX-100-100.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB1v5dfLXXXXXX6XXXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB1JBsNKVXXXXbdaXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="auspost.com.au" url="http://auspost.com.au" />
+			<tel>0061-3-88479045</tel>
+		</display>
+	</item>
+	<item>
+		<key>postpk</key>
+		<skey>POSTPK</skey>
+		<display>
+			<title>巴基斯坦邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTPK&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTPK]]></wapurl>
+			<fullname>巴基斯坦邮政</fullname>
+			<shortname>巴基斯坦邮政</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB1s4E_KVXXXXXMXpXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB1SysNKVXXXXbEaXXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB18DM5KVXXXXXiXFXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB1OcoNKVXXXXb7aXXXqxFJVFXX-100-100.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB1XZlbLXXXXXb0XXXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB1Q2dfLXXXXXabXXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="ep.gov.pk" url="http://ep.gov.pk/" />
+			<tel>（+92 51）926 00 37</tel>
+		</display>
+	</item>
+	<item>
+		<key>postmt</key>
+		<skey>POSTMT</skey>
+		<display>
+			<title>马耳他邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTMT&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTMT]]></wapurl>
+			<fullname>马耳他邮政</fullname>
+			<shortname>马耳他邮政</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB1J8w6KVXXXXXgXFXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1CI30KVXXXXXfXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1pLg4KVXXXXblXFXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1Qw4XLXXXXXcsXXXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1vIxeLXXXXXa2XXXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB1h..0KVXXXXXlXVXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="maltapost.com" url="http://maltapost.com" />
+			<tel>800 7 22 44</tel>
+		</display>
+	</item>
+	<item>
+		<key>postlb</key>
+		<skey>POSTLB</skey>
+		<display>
+			<title>黎巴嫩邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTLB&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTLB]]></wapurl>
+			<fullname>黎巴嫩邮政</fullname>
+			<shortname>黎巴嫩邮政</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB1FToMKVXXXXbvaXXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1v6lfLXXXXXX6XXXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1wlJXLXXXXXcnXXXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1I03YKVXXXXXVXVXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1qHERKVXXXXc9XVXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1pAJaLXXXXXceXXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.libanpost.com.lb" url="http://www.libanpost.com.lb" />
+			<tel>+961 1 629628</tel>
+		</display>
+	</item>
+	<item>
+		<key>postmd</key>
+		<skey>POSTMD</skey>
+		<display>
+			<title>摩尔多瓦邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTMD&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTMD]]></wapurl>
+			<fullname>摩尔多瓦邮政</fullname>
+			<shortname>摩尔多瓦邮政</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB12ZQIKVXXXXa4apXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB12Ug8KVXXXXbYXpXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB12Pc.KVXXXXXGXpXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1dDXgLXXXXXXfXXXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1oKI2KVXXXXcgXFXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB1CY.OKVXXXXavaXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.posta.md" url="http://www.posta.md/" />
+			<tel>+373 - 22 270 044</tel>
+		</display>
+	</item>
+	<item>
+		<key>postsrb</key>
+		<skey>POSTSRB</skey>
+		<display>
+			<title>塞尔维亚邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTSRB&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTSRB]]></wapurl>
+			<fullname>塞尔维亚邮政</fullname>
+			<shortname>塞尔维亚邮政</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB16D.OKVXXXXaOaXXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1qnoUKVXXXXb0XVXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1IeZRKVXXXXcTXVXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1eQ3OKVXXXXXOXpXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1S08dLXXXXXbgXXXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1rXZ8KVXXXXcsXpXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.posta.rs" url="http://www.posta.rs" />
+			<tel>0700 100 300</tel>
+		</display>
+	</item>
+	<item>
+		<key>posthr</key>
+		<skey>POSTHR</skey>
+		<display>
+			<title>克罗地亚邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTHR&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTHR]]></wapurl>
+			<fullname>克罗地亚邮政</fullname>
+			<shortname>克罗地亚邮政</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB1CRARKVXXXXc6XVXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1H.FeLXXXXXavXXXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1YbkZKVXXXXaXXVXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1lV3OKVXXXXbgaXXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB17ZsVKVXXXXbGXVXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB1i8MVKVXXXXa3XVXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.posta.hr" url="http://www.posta.hr/" />
+			<tel>+385 0800 303 304</tel>
+		</display>
+	</item>
+	<item>
+		<key>postam</key>
+		<skey>POSTAM</skey>
+		<display>
+			<title>亚美尼亚邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTAM&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTAM]]></wapurl>
+			<fullname>亚美尼亚邮政</fullname>
+			<shortname>亚美尼亚邮政</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB1oq8cLXXXXXa0XXXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1zaU0KVXXXXcYXFXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1FG.6KVXXXXayXFXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1HgQVKVXXXXbnXVXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1ijA_KVXXXXboXXXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1DJZSKVXXXXXlaXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.haypost.am" url="http://www.haypost.am" />
+		</display>
+	</item>
+	<item>
+		<key>postmk</key>
+		<skey>POSTMK</skey>
+		<display>
+			<title>马其顿邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTMK&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTMK]]></wapurl>
+			<fullname>马其顿邮政</fullname>
+			<shortname>马其顿邮政</shortname>
+			<icon
+				small="https://gtms03.alicdn.com/tps/i3/TB17qFhLXXXXXXcXXXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB1UjwTKVXXXXbQXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB1GJ3RKVXXXXXkaXXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB1RB70KVXXXXXvXVXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB1sv35KVXXXXX8XFXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB1zYQTKVXXXXb4XVXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.posta.com.mk" url="http://www.posta.com.mk/" />
+		</display>
+	</item>
+	<item>
+		<key>ontrac</key>
+		<skey>ONTRAC</skey>
+		<display>
+			<title>OnTrac-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=ONTRAC&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=ONTRAC]]></wapurl>
+			<fullname>OnTrac</fullname>
+			<shortname>OnTrac</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB14rrjKVXXXXajXVXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB15__hKVXXXXaNXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB14xHXKVXXXXb.aXXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB1nOnlKVXXXXXcXVXXqxFJVFXX-100-100.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB1aDvpKVXXXXXfXFXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB1HG2tKVXXXXctXpXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.ontrac.com" url="http://www.ontrac.com" />
+			<tel>800-334-5000</tel>
+		</display>
+	</item>
+	<item>
+		<key>citylink</key>
+		<skey>CITYLINK</skey>
+		<display>
+			<title>City-Link-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=CITYLINK&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=CITYLINK]]></wapurl>
+			<fullname>City-Link</fullname>
+			<shortname>City-Link</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1WtS8KVXXXXbzapXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1e.y8KVXXXXbeapXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB1pai6KVXXXXaQapXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1ouT_KVXXXXa1XXXXqxFJVFXX-100-100.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB1x0v0KVXXXXcYXpXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB1o42QKVXXXXcZXFXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.citylinkexpress.com" url="http://www.citylinkexpress.com/" />
+			<tel>603-5565 8399</tel>
+		</display>
+	</item>
+	<item>
+		<key>coe</key>
+		<skey>COE</skey>
+		<display>
+			<title>COE-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=COE&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=COE]]></wapurl>
+			<fullname>COE</fullname>
+			<shortname>COE</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1iMbaKVXXXXbaaXXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1yOLaKVXXXXbXaXXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1sG6vKVXXXXaPXpXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1zRvyKVXXXXcCXXXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB14rYkKVXXXXX2XVXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB1nl6XKVXXXXbAaXXXNOB3_XXX-103-38.png"/>
+			<weight>0</weight>
+			<website title="www.coe.com.hk" url="http://www.coe.com.hk/" />
+			<tel>+86-755-83575000</tel>
+		</display>
+	</item>
+	<item>
+		<key>datianwuliu</key>
+		<skey>DTW</skey>
+		<display>
+			<title>大田物流-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=DTW&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=DTW]]></wapurl>
+			<fullname>大田物流</fullname>
+			<shortname>大田物流</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB17S_eKVXXXXcWXVXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1y7vbKVXXXXXraXXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1w6zsKVXXXXcEXpXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1YDHuKVXXXXbdXpXXqxFJVFXX-100-100.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB1FkzxKVXXXXXfXpXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB13gfsKVXXXXcTXpXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.dtw.com.cn" url="http://www.dtw.com.cn" />
+			<tel>400-626-1166</tel>
+		</display>
+	</item>
+	<item>
+		<key>baifudongfang</key>
+		<skey>EES</skey>
+		<display>
+			<title>百福东方-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=EES&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=EES]]></wapurl>
+			<fullname>百福东方</fullname>
+			<shortname>百福东方</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB1926aKVXXXXbeaXXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1DS6nKVXXXXbTXFXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1aYHhKVXXXXbcXVXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1kFDbKVXXXXa5aXXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1pfS1KVXXXXb_apXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB1E06cKVXXXXXjaXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.ees.com.cn" url="http://www.ees.com.cn/" />
+			<tel>4007-060-609</tel>
+			<auxiliary title="其他服务"
+				url="http://www.ees.com.cn/hangkong.html" />
+		</display>
+	</item>
+	<item>
+		<key>minbangsudi</key>
+		<skey>MBEX</skey>
+		<display>
+			<title>民邦快递-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=MBEX&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=MBEX]]></wapurl>
+			<fullname>民邦快递</fullname>
+			<shortname>民邦快递</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB1AKC.KVXXXXXkapXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB16IHFKVXXXXXiXXXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB1yGjmKVXXXXXgXVXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB1fxDAKVXXXXbNXXXXqxFJVFXX-100-100.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB16qbBKVXXXXbcXXXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB1YD_qKVXXXXXJXFXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.mbex168.com" url="http://www.mbex168.com/" />
+			<tel>0769-81515303</tel>
+		</display>
+	</item>
+	<item>
+		<key>huaqikuaiyun</key>
+		<skey>HQKY</skey>
+		<display>
+			<title>华企快运-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=HQKY&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=HQKY]]></wapurl>
+			<fullname>华企快运</fullname>
+			<shortname>华企快运</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB1TQDdKVXXXXXgaXXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB1LDy8KVXXXXbaapXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB1J4DjKVXXXXagXVXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB1Kx6aKVXXXXboaXXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB1Af6zKVXXXXchXXXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB19HvxKVXXXXXQXpXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.hqkd.cn" url="http://www.hqkd.cn/" />
+			<tel>400-806-8111</tel>
+		</display>
+	</item>
+	<item>
+		<key>yuefengwuliu</key>
+		<skey>YFEXPRESS</skey>
+		<display>
+			<title>越丰物流-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=YFEXPRESS&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=YFEXPRESS]]></wapurl>
+			<fullname>越丰物流</fullname>
+			<shortname>越丰物流</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1YyTCKVXXXXaTXXXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1UrW.KVXXXXcoaXXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1Na6oKVXXXXb5XFXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB16oDeKVXXXXc6XVXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB1mbHnKVXXXXbAXFXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB1lo6hKVXXXXa5XVXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.yfexpress.com.hk" url="http://www.yfexpress.com.hk" />
+			<tel>852-23909969</tel>
+		</display>
+	</item>
+	<item>
+		<key>yafengsudi</key>
+		<skey>AIR</skey>
+		<display>
+			<title>亚风速递-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=AIR&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=AIR]]></wapurl>
+			<fullname>亚风速递</fullname>
+			<shortname>亚风速递</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1vVbuKVXXXXbFXpXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1yqbpKVXXXXX6XFXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1NTDEKVXXXXXnXXXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1WbfoKVXXXXb1XFXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB1pCHwKVXXXXXPXpXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB1Wa_CKVXXXXa_XXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="http://www.af-express.com/" url="http://www.af-express.com/" />
+			<tel>4001-000-002</tel>
+		</display>
+	</item>
+	<item>
+		<key>wanjiawuliu</key>
+		<skey>MANCOWL</skey>
+		<display>
+			<title>万家物流-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=MANCOWL&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=MANCOWL]]></wapurl>
+			<fullname>万家物流</fullname>
+			<shortname>万家物流</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB1qn9cLXXXXXXIXVXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB1XrqXLXXXXXbIXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB1_DCjLXXXXXatXFXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1l6CtLXXXXXXjXpXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB1krGoLXXXXXb8XpXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB1Be8_LXXXXXcHXVXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.manco-logistics.com" url="http://www.manco-logistics.com/" />
+			<tel>4001-156-561</tel>
+		</display>
+	</item>
+	<item>
+		<key>mingliangwuliu</key>
+		<skey>SZML56</skey>
+		<display>
+			<title>明亮物流-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=SZML56&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=SZML56]]></wapurl>
+			<fullname>明亮物流</fullname>
+			<shortname>明亮物流</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB17TzyKVXXXXcyXXXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB19APnKVXXXXb3XFXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB1VlfrKVXXXXcZXpXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB1C5PjKVXXXXaQXVXXqxFJVFXX-100-100.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB1KI19KVXXXXaZapXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB1MIbbKVXXXXahaXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.szml56.com" url="http://www.szml56.com/" />
+			<tel>400-035-6568</tel>
+		</display>
+	</item>
+	<item>
+		<key>chuanxiwuliu</key>
+		<skey>CXCOD</skey>
+		<display>
+			<title>传喜物流-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=CXCOD&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=CXCOD]]></wapurl>
+			<fullname>传喜物流</fullname>
+			<shortname>传喜物流</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1M0k_LXXXXXaUXXXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1FSE1LXXXXXcrXpXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1Hbg9LXXXXXczXXXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1K0DdKVXXXXX7aXXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1Op_gKVXXXXbYXVXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB1bCDzKVXXXXcXXXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.cxcod.com" url="http://www.cxcod.com/" />
+			<tel>400-777-5656</tel>
+		</display>
+	</item>
+	<item>
+		<key>disifang</key>
+		<skey>4PX</skey>
+		<display>
+			<title>递四方-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=4PX&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=4PX]]></wapurl>
+			<fullname>递四方</fullname>
+			<shortname>递四方</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB1iFYtKVXXXXceXpXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1ADTbKVXXXXaxaXXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1JfO9KVXXXXcAaXXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1cUbCKVXXXXa3XXXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB1M5DlKVXXXXXFXVXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB1HVnfKVXXXXcuXVXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.4px.com" url="http://www.4px.com" />
+			<tel>0755-33933895</tel>
+		</display>
+	</item>
+	<item>
+		<key>postfi</key>
+		<skey>POSTFI</skey>
+		<display>
+			<title>芬兰邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTFI&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTFI]]></wapurl>
+			<fullname>芬兰邮政</fullname>
+			<shortname>芬兰邮政</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1wMKzLXXXXXa9XXXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1bEmaLXXXXXbbXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1yxmXLXXXXXazXVXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1.YufLXXXXXcNXFXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB15TGyLXXXXXbIXXXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB1Rs1iLXXXXXb3XFXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.posti.fi" url="http://www.posti.fi/" />
+		</display>
+	</item>
+	<item>
+		<key>postar</key>
+		<skey>POSTAR</skey>
+		<display>
+			<title>阿根廷邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTAR&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTAR]]></wapurl>
+			<fullname>阿根廷邮政</fullname>
+			<shortname>阿根廷邮政</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1dB3GKVXXXXbMapXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1DJgOKVXXXXbdaXXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1vyI1KVXXXXcRXFXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1e87RKVXXXXc8XVXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB11qteLXXXXXX8XXXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB1wJ4aLXXXXXbFXXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.correoargentino.com.ar" url="http://www.correoargentino.com.ar/" />
+			<tel>011-4891-9191</tel>
+			<auxiliary title="网点查询"
+				url="http://www.correoargentino.com.ar/formularios/sucursales" />
+		</display>
+	</item>
+	<item>
+		<key>postsk</key>
+		<skey>POSTSK</skey>
+		<display>
+			<title>斯洛伐克邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTSK&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTSK]]></wapurl>
+			<fullname>斯洛伐克邮政</fullname>
+			<shortname>斯洛伐克邮政</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1WhFfLXXXXXagXXXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1qLAOKVXXXXaUaXXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1p.cYKVXXXXXZXVXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1BXMYKVXXXXawXVXXqxFJVFXX-100-100.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB1bIoRKVXXXXXqaXXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1EQMKKVXXXXcYaXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.posta.sk" url="http://www.posta.sk/" />
+			<tel>0800-122-413</tel>
+			<auxiliary title="运费查询"
+				url="http://cennik.posta.sk/" />
+		    <auxiliary title="网点查询"
+				url="http://otvaraciehodiny.posta.sk/" />
+		</display>
+	</item>
+	<item>
+		<key>serpost</key>
+		<skey>SERPOST</skey>
+		<display>
+			<title>秘鲁邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=SERPOST&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=SERPOST]]></wapurl>
+			<fullname>秘鲁邮政</fullname>
+			<shortname>秘鲁邮政</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB1MXU6KVXXXXaqXFXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1I0ddLXXXXXbgXXXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1_4Q9KVXXXXboXpXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB11jQ4KVXXXXblXFXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1uwE5KVXXXXa2XFXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB1pMQ3KVXXXXb0XFXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.serpost.com.pe" url="http://www.serpost.com.pe/" />
+			<tel>511-5000</tel>
+			<auxiliary title="运费查询"
+				url="http://www.serpost.com.pe/calculaRC2/calculador.jsp" />
+		    <auxiliary title="其他服务"
+				url="http://www.serpost.com.pe/PersonasDestinoNacional_Standard.html" />
+		</display>
+	</item>
+	<item>
+		<key>postit</key>
+		<skey>POSTIT</skey>
+		<display>
+			<title>意大利邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTIT&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTIT]]></wapurl>
+			<fullname>意大利邮政</fullname>
+			<shortname>意大利邮政</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB12mgNKVXXXXbJaXXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB1.3ISKVXXXXcNXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB1eAZWKVXXXXafXVXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB1ZZs_KVXXXXX8XpXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB1y0I4KVXXXXbSXFXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB1wYg3KVXXXXciXFXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.poste.it" url="http://www.poste.it/" />
+			<tel>+39 02 8244 33 33</tel>
+			<auxiliary title="网上寄件"
+				url="http://www.poste.it/postali/online/index.shtml" />
+		    <auxiliary title="其他服务"
+				url="http://www.poste.it/bancoposta/" />
+		</display>
+	</item>
+	<item>
+		<key>postsi</key>
+		<skey>POSTSI</skey>
+		<display>
+			<title>斯洛文尼亚邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTSI&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTSI]]></wapurl>
+			<fullname>斯洛文尼亚邮政</fullname>
+			<shortname>斯洛文尼亚邮政</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB1VBJ3LXXXXXbfaXXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB1nPSiLXXXXXa.XFXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1n4isLXXXXXabXpXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1JGOALXXXXXaRXXXXqxFJVFXX-100-100.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB1N8ijLXXXXXa3XFXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB1YLGaLXXXXXbsXVXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.posta.si" url="http://www.posta.si/" />
+			<tel>080-1400</tel>
+		</display>
+	</item>
+	<item>
+		<key>posthu</key>
+		<skey>POSTHU</skey>
+		<display>
+			<title>匈牙利邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTHU&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTHU]]></wapurl>
+			<fullname>匈牙利邮政</fullname>
+			<shortname>匈牙利邮政</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB1j0mzLXXXXXblXXXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB1cqqpLXXXXXbUXpXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB1udOtLXXXXXcdXXXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB16DmlLXXXXXXZXFXXqxFJVFXX-100-100.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB1P4GXLXXXXXcdXVXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB1TBedLXXXXXXwXVXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="posta.hu" url="http://posta.hu/" />
+			<tel>(576)8 928132</tel>
+		</display>
+	</item>
+	<item>
+		<key>postmu</key>
+		<skey>POSTMU</skey>
+		<display>
+			<title>毛里求斯邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTMU&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTMU]]></wapurl>
+			<fullname>毛里求斯邮政</fullname>
+			<shortname>毛里求斯邮政</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB1J8w6KVXXXXXgXFXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1CI30KVXXXXXfXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1pLg4KVXXXXblXFXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1QsmtLXXXXXX7XpXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1WyurLXXXXXaEXpXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1UPakLXXXXXaBXFXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.mauritiuspost.mu" url="http://www.mauritiuspost.mu/" />
+			<tel>(+230)208 0033</tel>
+			<auxiliary title="运费查询"
+				url="http://www.mauritiuspost.mu/products-and-services/postal-charges" />
+		    <auxiliary title="其他服务"
+				url="http://www.mauritiuspost.mu/products-and-services/delivery-services" />
+		</display>
+	</item>
+	<item>
+		<key>postat</key>
+		<skey>POSTAT</skey>
+		<display>
+			<title>奥地利邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTAT&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTAT]]></wapurl>
+			<fullname>奥地利邮政</fullname>
+			<shortname>奥地利邮政</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1OKyaLXXXXXbGXVXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1lR07LXXXXXa6aXXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1rPyvLXXXXXcKXXXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1uICjLXXXXXbqXFXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB13YCALXXXXXaMXXXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB1hs1lLXXXXXX_XFXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.post.at" url="http://www.post.at/" />
+			<tel>:0810 010 100</tel>
+		</display>
+	</item>
+	<item>
+		<key>postal</key>
+		<skey>POSTAL</skey>
+		<display>
+			<title>阿尔巴尼亚邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTAL&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTAL]]></wapurl>
+			<fullname>阿尔巴尼亚邮政</fullname>
+			<shortname>阿尔巴尼亚邮政</shortname>
+			<icon
+				small="https://gtms03.alicdn.com/tps/i3/TB18DkEKVXXXXcvapXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB17gFcLXXXXXbvXXXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1.8MPKVXXXXamaXXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1RV74KVXXXXb9XFXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB1VRM3KVXXXXbSXFXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB1nV.TKVXXXXceXVXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.postashqiptare.al" url="http://www.postashqiptare.al/" />
+		</display>
+	</item>
+	<item>
+		<key>postee</key>
+		<skey>POSTEE</skey>
+		<display>
+			<title>爱沙尼亚邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTEE&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTEE]]></wapurl>
+			<fullname>爱沙尼亚邮政</fullname>
+			<shortname>爱沙尼亚邮政</shortname>
+			<icon
+				small="https://gtms03.alicdn.com/tps/i3/TB15ndeLXXXXXaBXXXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB1Vw.9KVXXXXbSXpXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1_d3OKVXXXXbyaXXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB1U_dfLXXXXXX0XXXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB1ofdaLXXXXXcgXXXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1AnU7KVXXXXc7XpXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.omniva.ee/muudatus" url="https://www.omniva.ee/muudatus/" />
+			<tel>661 6616</tel>
+			<auxiliary title="网点查询"
+				url="https://www.omniva.ee/abi/kaart" />
+		    <auxiliary title="运费查询"
+				url="https://www.omniva.ee/abi/erakliendile" />
+		</display>
+	</item>
+	<item>
+		<key>aramex</key>
+		<skey>ARAMEX</skey>
+		<display>
+			<title>ARAMEX-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=ARAMEX&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=ARAMEX]]></wapurl>
+			<fullname>Aramex</fullname>
+			<shortname>Aramex</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1OzO.KVXXXXb5aXXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB17A_tKVXXXXbWXpXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB1l216KVXXXXcwapXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB1mQ50KVXXXXcZapXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB1_uTlKVXXXXXCXVXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB1tUbfKVXXXXb7XVXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.aramex.com" url="http://www.aramex.com//" />
+			<tel>400-631-8388</tel>
+			<auxiliary title="网点查询"
+				url="http://www.aramex.com/express/service_request_interm.aspx" />
+		    <auxiliary title="运费查询"
+				url="http://www.aramex.com/express/rate_and_time.aspx" />
+		</display>
+	</item>
+	<item>
+		<key>santai</key>
+		<skey>SANTAI</skey>
+		<display>
+			<title>三态速递-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=SANTAI&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=SANTAI]]></wapurl>
+			<fullname>三态速递</fullname>
+			<shortname>三态速递</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB12ZjeKVXXXXXHaXXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB1FwjvKVXXXXaNXpXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB1mgHXKVXXXXb0aXXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB1uuq3KVXXXXaGapXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB1XsfCKVXXXXa3XXXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB16V6sKVXXXXXcXFXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.sfcservice.com" url="http://www.sfcservice.com/" />
+			<tel>400-881-8106</tel>
+			<auxiliary title="网点查询"
+				url="http://www.sfcservice.com/logistics/shipping" />
+		    <auxiliary title="运费查询"
+				url="http://www.sfcservice.com/logistics/shipping" />
+		</display>
+	</item>
+	<item>
+		<key>ocs</key>
+		<skey>OCS</skey>
+		<display>
+			<title>OCS-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=OCS&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=OCS]]></wapurl>
+			<fullname>OCS</fullname>
+			<shortname>OCS</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB1m0zbKVXXXXaCaXXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1ZNHgKVXXXXbGXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1pnfuKVXXXXbeXpXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1b5_CKVXXXXXDXXXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1fa2tKVXXXXciXpXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB1fovqKVXXXXXOXFXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.ocschina.com" url="http://www.ocschina.com" />
+			<tel>400-118-8588</tel>
+			<auxiliary title="网点查询"
+				url="http://www.ocschina.com/office/OfficeMap.aspx" />
+		</display>
+	</item>
+	<item>
+		<key>myaae</key>
+		<skey>MYAAE</skey>
+		<display>
+			<title>AAE全球专递-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=MYAAE&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=MYAAE]]></wapurl>
+			<fullname>AAE全球专递</fullname>
+			<shortname>AAE全球专递</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB1oOa8KVXXXXa3apXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB1AfbjKVXXXXapXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1KiG_KVXXXXXGapXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1GPa7KVXXXXbWapXXqxFJVFXX-100-100.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB1ch59KVXXXXb_apXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB17r59KVXXXXbuapXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="cn.aaeweb.com" url="http://cn.aaeweb.com/" />
+			<tel>400-6100-400</tel>
+			<auxiliary title="服务范围"
+				url="http://cn.aaeweb.com/network" />
+			<auxiliary title="网上寄件"
+				url="http://cn.aaeweb.com/ship/" />
+		</display>
+	</item>
+	<item>
+		<key>postlv</key>
+		<skey>POSTLV</skey>
+		<display>
+			<title>拉脱维亚邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTLV&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTLV]]></wapurl>
+			<fullname>拉脱维亚邮政</fullname>
+			<shortname>拉脱维亚邮政</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB1OTMELpXXXXavXFXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB1Y2AOLpXXXXXOXpXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1ZWUvLpXXXXbEXVXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1nsUqLpXXXXb4XVXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB152QuLpXXXXclXVXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB1rwwALpXXXXb9XFXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.pasts.lv" url="http://www.pasts.lv" />
+			<tel>(86)371 27008001</tel>
+		</display>
+	</item>
+	<item>
+		<key>ywwl</key>
+		<skey>YWWL</skey>
+		<display>
+			<title>燕文物流-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=YWWL&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=YWWL]]></wapurl>
+			<fullname>燕文物流</fullname>
+			<shortname>燕文物流</shortname>
+			<icon
+				small="https://gtms03.alicdn.com/tps/i3/TB1ZNkwIVXXXXcbapXXAz6UFXXX-16-16.png"
+				middle="https://gtms04.alicdn.com/tps/i4/TB1CvZWLpXXXXXOXXXXgBrbGpXX-36-36.png"
+				normal="https://gtms01.alicdn.com/tps/i1/TB1mggQLpXXXXaLXXXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB1D9sCLpXXXXcdXFXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB1iXZvLpXXXXbyXVXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1ZD.QLpXXXXczXXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.yw56.com.cn" url="http://www.yw56.com.cn/" />
+			<tel>4008-900-156</tel>
+			<auxiliary title="运费查询"
+				url="http://www.yw56.com.cn/calc.aspx" />
+		</display>
+	</item>
+	<item>
+		<key>asendia</key>
+		<skey>ASENDIA</skey>
+		<display>
+			<title>Asendia USA-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=ASENDIA&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=ASENDIA]]></wapurl>
+			<fullname>Asendia USA</fullname>
+			<shortname>Asendia USA</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB1UM.OLpXXXXXOXpXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB1UfEKLpXXXXcbXpXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1CgcHLpXXXXXGXFXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1V4IuLpXXXXa8XVXXqxFJVFXX-100-100.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB1MN7BLpXXXXbIXFXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB1KskVLpXXXXauXXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.asendiausa.com" url="http://www.asendiausa.com/" />
+			<tel>(86)1 610 461 3661</tel>
+		</display>
+	</item>
+	<item>
+		<key>ruxton</key>
+		<skey>RUSTON</skey>
+		<display>
+			<title>俄速通-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=RUSTON&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=RUSTON]]></wapurl>
+			<fullname>俄速通</fullname>
+			<shortname>俄速通</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB1W4wwLpXXXXbxXVXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB123UELpXXXXbXXFXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB1nncMLpXXXXaCXpXXZCKuHFXX-56-56.png"
+				s100="https://gtms04.alicdn.com/tps/i4/TB1bmTSLpXXXXcEaXXXqxFJVFXX-100-100.png"
+				s72="https://gtms02.alicdn.com/tps/i2/TB1IjZELpXXXXaxXFXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB1U17HLpXXXXXzXFXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="ruston.cc/index.php" url="http://ruston.cc/index.php" />
+			<tel>400-656-0077</tel>
+		</display>
+	</item>
+	<item>
+		<key>xlobo</key>
+		<skey>XLOBO</skey>
+		<display>
+			<title>贝海国际-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=XLOBO&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=XLOBO]]></wapurl>
+			<fullname>贝海国际速递</fullname>
+			<shortname>贝海国际</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB14.oLLpXXXXbXXpXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB1DhARLpXXXXcnXXXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB1ibctLpXXXXb9XVXXZCKuHFXX-56-56.png"
+				s72="https://gtms04.alicdn.com/tps/i4/TB1N_kILpXXXXc_XpXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB1NZ.rLpXXXXc_XVXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.xlobo.com" url="http://www.xlobo.com/" />
+			<tel>021-56712261</tel>
+			<auxiliary title="网点查询"
+				url="http://www.xlobo.com/Public/aboutxlobo.aspx#xlobo_cargo" />
+		</display>
+	</item>
+	<item>
+		<key>spsr</key>
+		<skey>SPSR</skey>
+		<display>
+			<title>中俄快递-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=SPSR&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=SPSR]]></wapurl>
+			<fullname>中俄快递</fullname>
+			<shortname>中俄快递</shortname>
+			<icon
+				small="https://gtms01.alicdn.com/tps/i1/TB1EIZNLpXXXXayXpXXAz6UFXXX-16-16.png"
+				middle="https://gtms02.alicdn.com/tps/i2/TB1Rn7BLpXXXXc2XFXXgBrbGpXX-36-36.png"
+				normal="https://gtms03.alicdn.com/tps/i3/TB11mZpLpXXXXcNXVXXZCKuHFXX-56-56.png"
+				s100="https://gtms02.alicdn.com/tps/i2/TB1lroKLpXXXXbLXpXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB1ejUzLpXXXXXMXVXX6JhiMFXX-288-72.png"
+				s38="https://gtms04.alicdn.com/tps/i4/TB15woqLpXXXXaTaXXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.spsr.ru" url="http://www.spsr.ru/" />
+			<tel>8-800-555-4545</tel>
+		</display>
+	</item>
+	<item>
+		<key>postco</key>
+		<skey>POSTCO</skey>
+		<display>
+			<title>哥伦比亚邮政-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=POSTCO&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=POSTCO]]></wapurl>
+			<fullname>哥伦比亚邮政</fullname>
+			<shortname>哥伦比亚邮政</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1aGKoLXXXXXceXpXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1HWaeLXXXXXXlXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1.q01LXXXXXajapXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1mSCbLXXXXXaSXVXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB1JPCrLXXXXXaeXpXX6JhiMFXX-288-72.png"
+				s38="https://gtms02.alicdn.com/tps/i2/TB1fbKeLXXXXXXlXVXX4zcE9VXX-102-38.png"/>
+		</display>
+	</item>
+	<item>
+		<key>sad</key>
+		<skey>SAD</skey>
+		<display>
+			<title>赛澳递-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=SAD&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=SAD]]></wapurl>
+			<fullname>赛澳递</fullname>
+			<shortname>赛澳递</shortname>
+			<icon
+				small="https://gtms02.alicdn.com/tps/i2/TB1rI3HLpXXXXcrXpXXAz6UFXXX-16-16.png"
+				middle="https://gtms03.alicdn.com/tps/i3/TB1q0UkLpXXXXc_aXXXgBrbGpXX-36-36.png"
+				normal="https://gtms04.alicdn.com/tps/i4/TB1ns7ULpXXXXayXXXXZCKuHFXX-56-56.png"
+				s100="https://gtms03.alicdn.com/tps/i3/TB1.uAvLpXXXXbtXVXXqxFJVFXX-100-100.png"
+				s72="https://gtms01.alicdn.com/tps/i1/TB1orgGLpXXXXanXFXX6JhiMFXX-288-72.png"
+				s38="https://gtms01.alicdn.com/tps/i1/TB1e_gFLpXXXXapXFXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.51cod.com" url="http://www.51cod.com/" />
+			<tel>400-034-5888</tel>
+		</display>
+	</item>
+	<item>
+		<key>SUIJIAWL</key>
+		<skey>SUIJIAWL</skey>
+		<display>
+			<title>穗佳物流-查快递,寄快递,上菜鸟裹裹</title>
+			<url><![CDATA[https://www.guoguo-app.com/queryByCode.htm?cptype=all&cpcode=SUIJIAWL&mailNo=]]></url>
+			<wapurl><![CDATA[https://m.guoguo-app.com/indexCompany.htm?type=2&cpCode=SUIJIAWL]]></wapurl>
+			<fullname>穗佳物流</fullname>
+			<shortname>穗佳物流</shortname>
+			<icon
+				small="https://gtms04.alicdn.com/tps/i4/TB18NgOLpXXXXXOXpXXAz6UFXXX-16-16.png"
+				middle="https://gtms01.alicdn.com/tps/i1/TB195wBLpXXXXXcXVXXgBrbGpXX-36-36.png"
+				normal="https://gtms02.alicdn.com/tps/i2/TB1b7UvLpXXXXboXVXXZCKuHFXX-56-56.png"
+				s100="https://gtms01.alicdn.com/tps/i1/TB1VCoULpXXXXaAXXXXqxFJVFXX-100-100.png"
+				s72="https://gtms03.alicdn.com/tps/i3/TB1f7UuLpXXXXbLXVXX6JhiMFXX-288-72.png"
+				s38="https://gtms03.alicdn.com/tps/i3/TB1px3eLpXXXXcBapXX4zcE9VXX-102-38.png"/>
+			<weight>0</weight>
+			<website title="www.51cod.com" url="http://www.51cod.com/" />
+			<tel>400-880-9771</tel>
+		</display>
+	</item>
+</DOCUMENT>
